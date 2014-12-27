@@ -28,7 +28,7 @@
 	margin-top: $spacing-unit;
 	margin-bottom: $spacing-unit;
 	padding-bottom: $spacing-unit*0.5;
-	padding-left: $spacing-unit*0.9;
+	padding-left: $spacing-unit*0.6;
 	padding-right: $spacing-unit*0.9;
 
 	a {
@@ -40,14 +40,23 @@
 		background-size: 12px;
 	}
 
-	&.text {
-		border-left: $spacing-unit/2 solid $media-text;
-		padding-left: $spacing-unit/2;
+	&.media {
+		border-left: $spacing-unit*0.3 solid #333;
+		margin-bottom: 1px;
+		padding-left: $spacing-unit*0.3;
+		padding-top: $spacing-unit*0.5;
 	}
-}
 
+	&.text {
+		border-left-color: $media-text;
+	}
 
+	&.frage {
+		caption {
 
-.frage {
-	font-style: italic;
+		}
+		p {
+			font-style: italic;
+		}
+	}
 }

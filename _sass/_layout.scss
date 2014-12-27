@@ -24,10 +24,13 @@
 	}
 }
 
+/*
+** Content Cell (for sources, etc)
+*/
 .cell {
 	margin-top: $spacing-unit;
 	margin-bottom: $spacing-unit;
-	padding-bottom: $spacing-unit*0.5;
+	padding-bottom: $spacing-unit*0.4;
 	padding-left: $spacing-unit*0.6;
 	padding-right: $spacing-unit*0.9;
 
@@ -38,11 +41,21 @@
 	&.intro {
 		background: url("../assets/caret-forward@2x.png") no-repeat 98% 50%;
 		background-size: 12px;
+
+		/* This puts the underline between items, except for the last one */
+		&:not(:last-child) {
+			border-bottom: 1px solid $grey-color-light;
+		}
+
+		&:last-child {
+			margin-bottom: 0;
+		}
 	}
 
 	&.media {
 		border-left: $spacing-unit*0.3 solid #333;
 		margin-bottom: 1px;
+		margin-top: 1px;
 		padding-left: $spacing-unit*0.3;
 		padding-top: $spacing-unit*0.5;
 	}
@@ -52,11 +65,27 @@
 	}
 
 	&.frage {
-		caption {
-
+		margin-bottom: 1px;
+		h4 {
+			text-transform: uppercase;
 		}
 		p {
 			font-style: italic;
+		}
+	}
+}
+
+/*
+** Footer: Media types key
+*/
+.media-keys {
+	width: 100%;
+	background-color: #ccc;
+	margin-left: 0;
+
+	.key {
+		.text {
+
 		}
 	}
 }

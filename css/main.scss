@@ -3,13 +3,12 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
 $base-font-family: "ff-meta-web-pro", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.4;
+$paragraph-font-family: "Noticia Text", Georgia, Times, serif;
 
 $spacing-unit:     30px;
 
@@ -19,13 +18,13 @@ $nav-color:        #42506b;
 $header-color:     #2e3e5c;
 $brand-color:      #2a7ae2;
 $footer-color:     #333333;
-$media-text:       #3f7cb5;
+$media-text:       #D67C1B;
 $media-video:      #ad2c2f;
 $media-audio:      #3f7cb5;
 $media-picture:    #d47c2a;
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
+$grey-color-light: lighten($grey-color, 30%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
@@ -53,6 +52,7 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+		"type",
         "base",
         "layout"
 ;

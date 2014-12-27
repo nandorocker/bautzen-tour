@@ -1,3 +1,7 @@
+.introduction {
+	margin-top: $spacing-unit*0.8;
+}
+
 .main-nav {
 	background-color: $nav-color;
 	text-align: center;
@@ -7,7 +11,7 @@
 	ul {
 		margin-left: 0;
 	}
-	
+
 	li {
 		list-style-type: none;
 		padding: 0;
@@ -18,4 +22,32 @@
 			text-transform: capitalize;
 		}
 	}
+}
+
+.cell {
+	margin-top: $spacing-unit;
+	margin-bottom: $spacing-unit;
+	padding-bottom: $spacing-unit*0.5;
+	padding-left: $spacing-unit*0.9;
+	padding-right: $spacing-unit*0.9;
+
+	a {
+		color: $text-color;
+	}
+
+	&.intro {
+		background: url("../assets/caret-forward@2x.png") no-repeat 98% 50%;
+		background-size: 12px;
+	}
+
+	&.text {
+		border-left: $spacing-unit/2 solid $media-text;
+		padding-left: $spacing-unit/2;
+	}
+}
+
+
+
+.frage {
+	font-style: italic;
 }

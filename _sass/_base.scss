@@ -33,7 +33,7 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 3;
-    line-height: 1.2em;
+    line-height: 1.1em;
 }
 
 /**
@@ -80,6 +80,12 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 600;
+    color: $header-color;
+}
+
+
+h3 {
+    font-size: $base-font-size*1.1;
 }
 
 
@@ -207,4 +213,11 @@ pre {
 */
 footer {
     background-color: $footer-color;
+    padding-top: $spacing-unit*3;
+    padding-bottom: $spacing-unit*4;
+    margin-top: $spacing-unit*3;
+    text-align: center;
+    .logo {
+        width: 30%;
+    }
 }

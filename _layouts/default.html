@@ -12,24 +12,29 @@
         <!-- Add your site or application content here -->
         {% include header.html %}
 
-        <img src="assets/{{ page.image }}.jpg">
-        <div class="wrapper">
-            <h1>{{ page.title }}</h1>
-            <item class="media-item intro">
+        <img src="assets/station-{{ page.station }}/{{ page.image }}.jpg">
+        <div class="introduction">
+            <h1 class="cell">{{ page.title }}</h1>
+            <article class="cell intro">
                 <a href="">
                 <h3>Friedliche Revolution in der DDR</h3>
                 <p>Im Herbst 1989 war der Zusammenbruch des SED-Staates kaum mehr aufzuhalten...</p></a>
-            </item>
-            <item class="media-item intro">
+            </article>
+            <article class="cell intro">
                 <a href="">
                 <h3>Friedliche Revolution im Strafvollzug</h3>
                 <p>Im Oktober 1989 drangen zunehmend Berichte &uuml;ber die DDR-Haftanstalten an die Öffentlichkeit.</p></a>
-            </item>
+            </article>
+        </div>
+        <div class="quellen">
             <caption>Quellen</caption>
-            <item class="media-item text">
+            <article class="frage">
+                <p>Was war die Friedliche Revolution in Bautzen II?</p>
+            </article>
+            <article class="cell text">
                 <h3>Bernd M&uuml;ller erinnert sich</h3>
                 <p>Der ehemalige H&auml;ftling in Bautzen II, Bernd Joachim M&uuml;ller erinnert sich 2014 an die Friedliche Revolution im Stasi-Gef&auml;ngnis.</p>
-            </item>
+            </article>
         </div>
 
         {% include footer.html %}

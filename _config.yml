@@ -1,0 +1,4 @@
+title: Revolution Bautzen
+markdown: kramdown
+baseurl: /web
+exclude: ['README.md']

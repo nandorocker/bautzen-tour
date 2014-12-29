@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="43px" height="55px" viewBox="0 0 43 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>button-play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="/*-Exported-Assets-*/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-493.000000, -51.000000)" fill="#FFFFFF">
+            <g id="button-play" sketch:type="MSLayerGroup" transform="translate(493.000000, 51.000000)">
+                <path d="M41.8842175,24.7493049 L5.61271645,1.37340414 C3.46090397,0.214442143 0.995961728,0.334729797 0.995961728,4.49515517 L0.995961728,50.5252308 C0.995961728,54.3286119 3.64038079,54.9281408 5.61271645,53.6469818 L41.8842175,30.2710811 C43.3773119,28.7455281 43.3773119,26.2748579 41.8842175,24.7493049" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

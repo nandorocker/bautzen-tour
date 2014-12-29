@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    {% include head.html %}
+    <body class="article video">
+        {% include header-info.html %}
+        <video controls>
+            <source src="/assets/station-video/{{ page.file }}" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        {% include frage.html %}
+        <div class="spaced">
+            <h1>{{ page.title }}</h1>
+            {{ content }}
+        </div>
+        
+        {% include footer.html %}
+    </body>
+</html>

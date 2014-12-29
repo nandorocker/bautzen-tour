@@ -2,11 +2,12 @@
 	margin-top: $spacing-unit*0.8;
 }
 
-.main-nav {
-	background-color: $nav-color;
+.nav {
 	text-align: center;
 	padding-top: $spacing-unit/2;
 	padding-bottom: $spacing-unit/6;
+	padding-left: $spacing-unit*0.4;
+	padding-right: $spacing-unit*0.4;
 
 	ul {
 		margin-left: 0;
@@ -23,24 +24,115 @@
 			text-transform: uppercase;
 		}
 
-		a:after{
+		.station & a:after{
 			margin-left: $spacing-unit/4;
 			position: absolute;
 			top: $spacing-unit/2.5;
 			display: inline-block;
 			content: url("../assets/nav-arrow-down.png");
 		}
+
+
 	}
+
+	.nav-left, .nav-right {
+		width: 50%;
+		display: inline-block;
+	}
+
+	.nav-left {
+		text-align: left;
+	}
+
+	.nav-right {
+		text-align: right;
+	}
+
+	&.station {
+		background-color: $media-info;
+	}
+
+	&.info {
+		background-color: $media-info;
+
+		// insert icon next to title
+		a.title:before{
+			margin-right: $spacing-unit/4;
+			display: inline-block;
+			content: url("../assets/icon-info.svg");
+		}
+	}
+
+	&.text {
+		background-color: $media-text;
+
+		a.title:before{
+			margin-right: $spacing-unit/4;
+			display: inline-block;
+			content: url("../assets/icon-text.svg");
+		}
+	}
+
+	&.video {
+		background-color: $media-video;
+
+		a.title:before{
+			margin-right: $spacing-unit/4;
+			display: inline-block;
+			content: url("../assets/icon-video.svg");
+		}
+	}
+
+	&.audio {
+		background-color: $media-audio;
+
+		a.title:before{
+			margin-right: $spacing-unit/4;
+			display: inline-block;
+			content: url("../assets/icon-audio.svg");
+		}
+	}
+
+	&.picture {
+		background-color: $media-picture;
+
+		a.title:before{
+			margin-right: $spacing-unit/4;
+			display: inline-block;
+			content: url("../assets/icon-picture.svg");
+		}
+	}
+}
+
+/*
+ ** Header item (can be image, audio, etc)
+ */
+.header-item {
+	width: 100%;
+	margin-bottom: $spacing-unit;
+}
+
+/*
+ ** Elements with equal margins from both edges of screen
+ */
+.spaced {
+	padding-left: $spacing-unit*0.6;
+	padding-right: $spacing-unit*0.6;
+}
+
+.spaced2x {
+	padding-left: $spacing-unit*1.2;
+	padding-right: $spacing-unit*1.2;
 }
 
 /*
 ** Content Cell (for sources, etc)
 */
 .cell {
+	@extend .spaced;
 	margin-top: $spacing-unit;
 	margin-bottom: $spacing-unit;
 	padding-bottom: $spacing-unit*0.4;
-	padding-left: $spacing-unit*0.6;
 	padding-right: $spacing-unit*0.9;
 
 	a {
@@ -72,16 +164,13 @@
 	&.text {
 		border-left-color: $media-text;
 	}
+}
 
-	&.frage {
-		margin-bottom: 1px;
-		h4 {
-			text-transform: uppercase;
-		}
-		p {
-			font-style: italic;
-		}
-	}
+.frage {
+    margin-bottom: 1px;
+    p {
+        font-style: italic;
+    }
 }
 
 /*
@@ -97,7 +186,7 @@
 		height: $base-font-size*3;
 		float: left;
 		list-style-type: none;
-		margin-bottom: $spacing-unit*3;
+		margin-bottom: $spacing-unit*4;
 	}
 	.text {
 		background: url("../assets/icon-text.svg") $media-text no-repeat 50% 50%;

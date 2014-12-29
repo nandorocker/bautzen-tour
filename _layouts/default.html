@@ -4,12 +4,12 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     {% include head.html %}
-    <body>
+    <body class="station">
         {% include header.html %}
-        <img src="assets/station-{{ page.station }}/{{ page.image }}.jpg">
-        <h1 class="cell">{{ page.title }}</h1>
+        <img src="/assets/station-photos/{{ page.image }}.jpg" alt="{{ page.title }}" class="header-item">
+        <h1 class="spaced">{{ page.title }}</h1>
         {{ content }}
-
+        
         {% include footer.html %}
     </body>
 </html>

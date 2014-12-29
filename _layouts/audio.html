@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    {% include head.html %}
+    <body class="article audio">
+        {% include header-info.html %}
+        <a href="/assets/station-audio/{{ page.file }}"><img src="/assets/placeholder-audio@2x.png" alt="{{ page.title }}" class="header-item"></a>
+        {% include frage.html %}
+        <div class="spaced">
+            <h1>{{ page.title }}</h1>
+            {{ content }}
+        </div>
+        
+        {% include footer.html %}
+    </body>
+</html>

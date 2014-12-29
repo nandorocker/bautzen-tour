@@ -2,7 +2,12 @@
 	margin-top: $spacing-unit*0.8;
 }
 
+/*
+ ** Top Navigation
+ */
+
 .nav {
+	background-color: $media-info;
 	text-align: center;
 	padding-top: $spacing-unit/2;
 	padding-bottom: $spacing-unit/6;
@@ -48,11 +53,8 @@
 		text-align: right;
 	}
 
-	&.station {
-		background-color: $media-info;
-	}
 
-	&.info {
+	.info & {
 		background-color: $media-info;
 
 		// insert icon next to title
@@ -63,7 +65,7 @@
 		}
 	}
 
-	&.text {
+	.text & {
 		background-color: $media-text;
 
 		a.title:before{
@@ -73,7 +75,7 @@
 		}
 	}
 
-	&.video {
+	.video & {
 		background-color: $media-video;
 
 		a.title:before{
@@ -83,7 +85,7 @@
 		}
 	}
 
-	&.audio {
+	.audio & {
 		background-color: $media-audio;
 
 		a.title:before{
@@ -93,7 +95,7 @@
 		}
 	}
 
-	&.picture {
+	.picture & {
 		background-color: $media-picture;
 
 		a.title:before{
@@ -132,7 +134,7 @@
 	@extend .spaced;
 	margin-top: $spacing-unit;
 	margin-bottom: $spacing-unit;
-	padding-bottom: $spacing-unit*0.4;
+	padding-bottom: $spacing-unit*0.5;
 	padding-right: $spacing-unit*0.9;
 
 	a {
@@ -142,15 +144,16 @@
 	&.intro {
 		background: url("../assets/caret-forward@2x.png") no-repeat 98% 50%;
 		background-size: 12px;
+		border-bottom: 1px solid $grey-color-light;
 
 		/* This puts the underline between items, except for the last one */
-		&:not(:last-child) {
+		/*&:not(:last-child) {
 			border-bottom: 1px solid $grey-color-light;
 		}
 
 		&:last-child {
 			margin-bottom: 0;
-		}
+		}*/
 	}
 
 	&.media {
@@ -158,19 +161,45 @@
 		margin-bottom: 1px;
 		margin-top: 1px;
 		padding-left: $spacing-unit*0.3;
-		padding-top: $spacing-unit*0.5;
+		padding-bottom: $spacing-unit*0.2;
+		padding-top: $spacing-unit*0.2;
 	}
 
 	&.text {
 		border-left-color: $media-text;
 	}
+
+	&.video {
+		border-left-color: $media-video;
+	}
+
+	&.audio {
+		border-left-color: $media-audio;
+	}
+
+	&.picture {
+		border-left-color: $media-picture;
+	}
 }
 
 .frage {
-    margin-bottom: 1px;
+	background-color: #ffffec;
+	padding: $spacing-unit*0.5;
+    margin-bottom: $spacing-unit;
     p {
-        font-style: italic;
+    	color: $header-color;
+    	font-style: italic;
     }
+}
+
+// Source text
+.source {
+	margin-top: $spacing-unit;
+
+	p {
+	    color: #777;
+	    font-style: italic;
+	}
 }
 
 /*

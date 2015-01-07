@@ -8,7 +8,26 @@
         {% include header.html %}
         <img src="/assets/station-photos/{{ page.image }}.jpg" alt="{{ page.title }}" class="header-item">
         <h1 class="spaced">{{ page.title }}</h1>
-        {{ content }}
+		<div id="introduction">
+			{% for post in site.categories.info %}
+				<article class="cell intro">
+				    <a href="{{ post.url }}">
+				    <h3>{{ post.title }}</h3>
+				    <p>{{ post.content | strip_html | truncatewords:14}}</p></a>
+				</article>
+			{% endfor %}
+		</div>
+
+		<div id="quellen">
+		    <h4 class="spaced">Quellen</h4>
+		    {% for post in site.categories.sources %}
+			<article class="cell media {{ post.layout }}">
+				<a href="{{ post.url }}">
+			    <h3>{{ post.title }}</h3>
+			    <p>{{ post.content | strip_html | truncatewords:15}}</p></a>
+			</article>
+			{% endfor %}
+		</div>
         
         {% include footer.html %}
     </body>

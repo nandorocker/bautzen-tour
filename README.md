@@ -1,8 +1,18 @@
 #Bautzen Tour
 ===
-##Site layout
+##Tech
 - Jekyll
-- Test
+- HTML
+
+##Posts Front Matter order
+-layout
+-station
+-title
+-image
+-date
+-question
+-sources
+-categories
 
 ##Navigation
 

@@ -5,15 +5,17 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     {% include head.html %}
     <body class="article text">
-        {% include header-article.html %}
+        {% include header-source.html %}
+
+        {% if page.image %}
+        <img src="/assets/station-photos/{{ page.image }}.jpg" alt="{{ page.title }}" class="header-item">
+        {% endif %}
         {% include frage.html %}
         <div class="spaced">
             <h1>{{ page.title }}</h1>
             {{ content }}
 
-            <div class="source">
-                <p>Quelle: {{ page.sources }}</p>
-            </div>
+            {% include source.html %}
         </div>
 
         {% include footer.html %}

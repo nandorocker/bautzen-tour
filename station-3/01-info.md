@@ -1,7 +1,0 @@
----
-layout: info
-title: Die H&auml;ftlinge treten in einen Arbeits- und Hungerstreik
-image: 3_Haeftlingsstreik_IntroPic
-station: 3
----
-Am 4. Dezember 1989 treten die ersten H&auml;ftlinge in Bautzen II in einen Arbeits- und Hungerstreik. Sie gr&uuml;nden einen Gefangenenrat und verfassen einen Forderungskatalog, in dem sie u.a. die &Uuml;berpr&uuml;fung der Urteile, die Ver&ouml;ffentlichung ihrer Schicksale und letztlich eine Generalamnestie f&uuml;r alle H&auml;ftlinge in Bautzen II verlangen. Gleichzeitig vereinbaren sie eine Sicherheitspartnerschaft mit dem Anstaltspersonal. Der DDR-Rundfunksender Dresden gibt am 5. Dezember 1989 die Forderungen der H&auml;ftlinge in Bautzen II bekannt; jedoch sehr verk&uuml;rzt, worauf weitere Gefangene in den Hungerstreik treten und der Druck auf die Anstaltsleitung erh&ouml;ht wird. Am Nachmittag des 6. Dezember verk&uuml;ndet die Regierung der DDR eine Amnestie f&uuml;r politische H&auml;ftlinge, nach deren Bestimmungen jedoch nur ein kleiner Teil der Insassen von Bautzen II entlassen werden w&uuml;rde. Alle Gefangenen treten daraufhin in den Hungerstreik.

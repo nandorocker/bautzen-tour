@@ -111,7 +111,7 @@
  */
 .header-item {
 	width: 100%;
-	margin-bottom: $spacing-unit;
+	//margin-bottom: $spacing-unit;
 }
 
 /*
@@ -199,6 +199,27 @@
 	p {
 	    color: #777;
 	    font-style: italic;
+	}
+}
+
+/*
+** Picture Gallery
+*/
+.carousel {
+	margin: 0;
+
+	li {
+		list-style-type: none;
+		margin-top: $spacing-unit;
+		margin-bottom: $spacing-unit;
+
+		&:first-child {
+			margin-top: $spacing-unit*2;
+		}
+
+		&:last-child {
+			margin-bottom: $spacing-unit*2;
+		}
 	}
 }
 

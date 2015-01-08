@@ -1,6 +1,4 @@
 ---
-layout: default
-title: Station List
 ---
 [Station 0](station-0/)
 

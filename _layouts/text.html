@@ -6,14 +6,14 @@
     {% include head.html %}
     <body class="article text">
         {% include header-source.html %}
+
+        <img src="/assets/station-photos/{{ page.image }}.jpg" alt="{{ page.title }}" class="header-item">
         {% include frage.html %}
         <div class="spaced">
             <h1>{{ page.title }}</h1>
             {{ content }}
 
-            <div class="source">
-                <p>Quellen: {{ page.sources }}</p>
-            </div>
+            {% include source.html %}
         </div>
 
         {% include footer.html %}

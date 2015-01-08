@@ -16,7 +16,7 @@
 				{% if post.station == page.station %}
 					<article class="cell intro">
 					    <a href="{{ post.url }}">
-					    {% if paginator.total_posts >= 1 %}
+					    {% if post_count >= 1 %}
 					    <h3>{{ post.title }}</h3>
 					    {% endif %}
 					    <p>{{ post.content | strip_html | truncatewords:25}}</p></a>
@@ -38,7 +38,6 @@
 				{% endif %}
 			{% endfor %}
 		</div>
-        
         {% include footer.html %}
     </body>
 </html>

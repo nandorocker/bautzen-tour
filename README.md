@@ -10,6 +10,7 @@
 - title
 - order (sets the post's sorting order in the category)
 - image
+- file
 - question
 - sources
 - categories

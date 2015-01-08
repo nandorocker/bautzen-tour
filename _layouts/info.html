@@ -7,6 +7,8 @@
     <body class="article info">
         {% include header-info.html %}
         <img src="/assets/station-photos/{{ page.image }}.jpg" alt="{{ page.title }}" class="header-item">
+        
+        {% include frage.html %}
         <div class="spaced">
             <h1>{{ page.title }}</h1>
             {{ content }}

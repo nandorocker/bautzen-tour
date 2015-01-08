@@ -4,18 +4,18 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     {% include head.html %}
-    <body class="article video">
+    <body class="article picture">
         {% include header-source.html %}
-        <video controls>
-            <source src="{{ site.url }}/assets/station-video/{{ page.video }}" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
         {% include frage.html %}
         <div class="spaced">
             <h1>{{ page.title }}</h1>
             {{ content }}
+
+            <div class="source">
+                <p>Fotos: {{ page.sources }}</p>
+            </div>
         </div>
-        
+
         {% include footer.html %}
     </body>
 </html>

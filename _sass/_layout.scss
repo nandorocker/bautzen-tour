@@ -6,7 +6,7 @@
  ** Top Navigation
  */
 
-.nav {
+.title-bar {
 	background-color: $media-info;
 	text-align: center;
 	padding-top: $spacing-unit/2;
@@ -40,16 +40,16 @@
 
 	}
 
-	.nav-left, .nav-right {
+	.title-bar-left, .title-bar-right {
 		width: 50%;
 		display: inline-block;
 	}
 
-	.nav-left {
+	.title-bar-left {
 		text-align: left;
 	}
 
-	.nav-right {
+	.title-bar-right {
 		text-align: right;
 	}
 

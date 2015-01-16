@@ -1,3 +1,4 @@
+
 .menu {
 
 	/*Strip the ul of padding and list styling*/
@@ -6,9 +7,13 @@
 		top: $spacing-unit*1.7;
 		margin:0;
 		padding:0;
-		display: none;
+		visibility: hidden;
+		//display: none;
+		opacity: 0;
 		list-style-type:none;
-		
+
+		// animate menu
+        transition:visibility 0s linear 0.2s,opacity 0.2s ease-out;
 	}
 
 	/*Create a horizontal list with spacing*/
@@ -109,7 +114,10 @@
 	    /*Show menu when invisible checkbox is checked*/
 	    &:checked {
 	    	~ #menu {
-    		    display: block;
+    		    opacity: 1;
+    		    visibility: visible;
+    		    transition-delay: 0s;
+    		    //display: block;
     		}
 		}
 	}

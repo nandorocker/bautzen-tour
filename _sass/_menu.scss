@@ -29,31 +29,33 @@
 			text-decoration: none;
 		}
 
-		/*Style for menu links*/
-		&:hover a {
-			background: #19c589;
-		}
-
-		/*Hover state for top level links*/
-		&:hover ul a {
-			background: #f3f3f3;
-			color: #2f3036;
-			height: 40px;
-			line-height: 40px;
-		}
-
-		/*Style for dropdown links*/
-		&:hover ul a {
-			background: #f3f3f3;
-			color: #2f3036;
-			height: 40px;
-			line-height: 40px;
-		}
-
-		/*Hover state for dropdown links*/
-		&:hover ul a:hover {
-			background: #19c589;
-			color: #fff;
+		@media screen and (min-width : 760px) {
+			/*Style for menu links*/
+			&:hover a {
+				background: #19c589;
+			}
+	
+			/*Hover state for top level links*/
+			&:hover ul a {
+				background: #f3f3f3;
+				color: #2f3036;
+				height: 40px;
+				line-height: 40px;
+			}
+	
+			/*Style for dropdown links*/
+			&:hover ul a {
+				background: #f3f3f3;
+				color: #2f3036;
+				height: 40px;
+				line-height: 40px;
+			}
+	
+			/*Hover state for dropdown links*/
+			&:hover ul a:hover {
+				background: #19c589;
+				color: #fff;
+			}
 		}
 
 		/*Hide dropdown links until they are needed*/

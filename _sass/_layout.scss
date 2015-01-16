@@ -118,7 +118,6 @@
  */
 .header-item {
 	width: 100%;
-	//margin-bottom: $spacing-unit;
 }
 
 /*
@@ -127,6 +126,10 @@
 .spaced {
 	padding-left: $spacing-unit*0.6;
 	padding-right: $spacing-unit*0.6;
+
+	.article & {
+		margin-bottom: $spacing-unit*2;
+	}
 }
 
 .spaced2x {

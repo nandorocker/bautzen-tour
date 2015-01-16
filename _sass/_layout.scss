@@ -5,13 +5,25 @@
 /*
  ** Title bars for content pages
  */
-.title-bar {
+// Top bar - any header
+.top-bar {
+	position: fixed;
+	z-index: 9999;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: $spacing-unit*2;
 	background-color: $media-info;
+	//padding-top: $spacing-unit/2;
+	//padding-bottom: $spacing-unit/2;
+	//padding-left: $spacing-unit*0.4;
+	//padding-right: $spacing-unit*0.4;
 	text-align: center;
-	padding-top: $spacing-unit/2;
-	padding-bottom: $spacing-unit/6;
-	padding-left: $spacing-unit*0.4;
-	padding-right: $spacing-unit*0.4;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.title-bar {
 
 	ul {
 		margin-left: 0;
@@ -40,16 +52,16 @@
 	}
 
 	.title-bar-left, .title-bar-right {
-		width: 50%;
-		display: inline-block;
+		position: absolute;
+		top: $spacing-unit*.6;
 	}
 
 	.title-bar-left {
-		text-align: left;
+		left: $spacing-unit*.4;
 	}
 
 	.title-bar-right {
-		text-align: right;
+		right: $spacing-unit*.4;
 	}
 
 

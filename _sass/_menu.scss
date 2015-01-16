@@ -3,7 +3,7 @@
 	/*Strip the ul of padding and list styling*/
 	ul {
 		position: absolute;
-		top: $spacing-unit*2;
+		top: $spacing-unit*1.7;
 		margin:0;
 		padding:0;
 		display: none;
@@ -25,7 +25,7 @@
 			text-align: center;
 			line-height: 50px;
 			color: #fff;
-			background: #2f3036;
+			background: $menu;
 			text-decoration: none;
 		}
 
@@ -82,21 +82,34 @@
 
 	/*Style 'show menu' label button and hide it by default*/
 	.show-menu {
-		margin-top: $spacing-unit*.6;
+		width: 8em;
+		margin-top: $spacing-unit*0.5;
+		margin-left: auto;
+		margin-right: auto;
 		text-decoration: none;
 		color: #fff;
 		text-align: center;
 		display: block;
+
+		&:after {
+			margin-left: $spacing-unit/4;
+			position: absolute;
+			top: $spacing-unit*0.4;
+			display: inline-block;
+			content: url("../assets/nav-arrow-down.png");
+		}
 	}
 
 	/*Hide checkbox*/
 	input[type=checkbox]{
 	    display: none;
-	}
 
-	/*Show menu when invisible checkbox is checked*/
-	input[type=checkbox]:checked ~ #menu{
-	    display: block;
+	    /*Show menu when invisible checkbox is checked*/
+	    &:checked {
+	    	~ #menu {
+    		    display: block;
+    		}
+		}
 	}
 }
 

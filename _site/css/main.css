@@ -1,0 +1,486 @@
+/*
+ ** Importing fonts
+ */
+@font-face {
+  font-family: 'Noticia Text';
+  src: url("/assets/fonts/noticiatext/noticiatext-regular-webfont.eot");
+  src: url("/assets/fonts/noticiatext/noticiatext-regular-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/noticiatext/noticiatext-regular-webfont.woff2") format("woff2"), url("/assets/fonts/noticiatext/noticiatext-regular-webfont.woff") format("woff"), url("/assets/fonts/noticiatext/noticiatext-regular-webfont.ttf") format("truetype"), url("/assets/fonts/noticiatext/noticiatext-regular-webfont.svg#noticia_textregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Noticia Text';
+  src: url("/assets/fonts/noticiatext/noticiatext-italic-webfont.eot");
+  src: url("/assets/fonts/noticiatext/noticiatext-italic-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/noticiatext/noticiatext-italic-webfont.woff2") format("woff2"), url("/assets/fonts/noticiatext/noticiatext-italic-webfont.woff") format("woff"), url("/assets/fonts/noticiatext/noticiatext-italic-webfont.ttf") format("truetype"), url("/assets/fonts/noticiatext/noticiatext-italic-webfont.svg#noticia_textitalic") format("svg");
+  font-weight: normal;
+  font-style: italic; }
+@font-face {
+  font-family: 'Noticia Text';
+  src: url("/assets/fonts/noticiatext/noticiatext-bolditalic-webfont.eot");
+  src: url("/assets/fonts/noticiatext/noticiatext-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/noticiatext/noticiatext-bolditalic-webfont.woff2") format("woff2"), url("/assets/fonts/noticiatext/noticiatext-bolditalic-webfont.woff") format("woff"), url("/assets/fonts/noticiatext/noticiatext-bolditalic-webfont.ttf") format("truetype"), url("/assets/fonts/noticiatext/noticiatext-bolditalic-webfont.svg#noticia_textbold_italic") format("svg");
+  font-weight: bold;
+  font-style: italic; }
+@font-face {
+  font-family: 'Noticia Text';
+  src: url("/assets/fonts/noticiatext/noticiatext-bold-webfont.eot");
+  src: url("/assets/fonts/noticiatext/noticiatext-bold-webfont.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/noticiatext/noticiatext-bold-webfont.woff2") format("woff2"), url("/assets/fonts/noticiatext/noticiatext-bold-webfont.woff") format("woff"), url("/assets/fonts/noticiatext/noticiatext-bold-webfont.ttf") format("truetype"), url("/assets/fonts/noticiatext/noticiatext-bold-webfont.svg#noticia_textbold") format("svg");
+  font-weight: bold;
+  font-style: normal; }
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0; }
+
+/**
+ * Basic styling
+ */
+body {
+  padding-top: 51px;
+  font-family: "ff-meta-web-pro", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.4;
+  font-weight: 300;
+  color: #333;
+  background-color: #f4f4f2;
+  -webkit-text-size-adjust: 100%; }
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure {
+  margin-bottom: 10px;
+  line-height: 1.2em; }
+
+/**
+ * Images
+ */
+img {
+  max-width: 100%;
+  vertical-align: middle; }
+
+/**
+ * Figures
+ */
+figure > img {
+  display: block; }
+
+figcaption {
+  font-size: 14px; }
+
+/**
+ * Lists
+ */
+ul, ol {
+  margin-left: 30px; }
+
+li > ul,
+li > ol {
+  margin-bottom: 0; }
+
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  color: #2e3e5c; }
+
+h1 {
+  font-size: 33.6px;
+  line-height: 0.98;
+  margin-top: 30px; }
+
+h3 {
+  font-size: 22.4px; }
+
+h4 {
+  text-transform: uppercase;
+  margin-bottom: 4.5px; }
+
+/**
+ * Paragraphs
+ */
+p {
+  font-family: "Noticia Text", Georgia, Times, serif; }
+
+/**
+ * Links
+ */
+a {
+  color: #2a7ae2;
+  text-decoration: none; }
+  a:visited {
+    color: #1756a9; }
+  a:hover {
+    color: #333;
+    text-decoration: underline; }
+
+/**
+ * Blockquotes
+ */
+blockquote {
+  color: #828282;
+  border-left: 4px solid #cecece;
+  padding-left: 15px;
+  font-size: 18px;
+  letter-spacing: -1px;
+  font-style: italic; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
+/**
+ * Video Player
+ */
+video {
+  width: 100%; }
+
+/**
+ * Code formatting
+ */
+pre,
+code {
+  font-size: 15px;
+  border: 1px solid #cecece;
+  border-radius: 3px;
+  background-color: #eef; }
+
+code {
+  padding: 1px 5px; }
+
+pre {
+  padding: 8px 12px;
+  overflow-x: scroll; }
+  pre > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0; }
+
+/**
+ * Wrapper
+ */
+.wrapper {
+  max-width: -webkit-calc(800px - (30px * 2));
+  max-width: calc(800px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px; }
+  @media screen and (max-width: 800px) {
+    .wrapper {
+      max-width: -webkit-calc(800px - (30px));
+      max-width: calc(800px - (30px));
+      padding-right: 15px;
+      padding-left: 15px; } }
+
+/**
+ * Clearfix
+ */
+.wrapper:after {
+  content: "";
+  display: table;
+  clear: both; }
+
+/**
+ * Icons
+ */
+.icon > svg {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  vertical-align: middle; }
+  .icon > svg path {
+    fill: #828282; }
+
+/**
+* Footer
+*/
+footer {
+  background-color: #333333;
+  padding-top: 60px;
+  padding-bottom: 120px;
+  text-align: center; }
+  footer .logo {
+    width: 30%;
+    max-width: 120px; }
+
+.introduction {
+  margin-top: 24px; }
+
+/*
+ ** Title bars for content pages
+ */
+.top-bar {
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 51px;
+  background-color: rgba(66, 80, 107, 0.96);
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase; }
+
+.title-bar ul {
+  margin-left: 0; }
+.title-bar li {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; }
+  .title-bar li a {
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase; }
+  .station .title-bar li a:after {
+    margin-left: 7.5px;
+    position: absolute;
+    top: 12px;
+    display: inline-block;
+    content: url("../assets/nav-arrow-down.png"); }
+.title-bar .title-bar-left, .title-bar .title-bar-right {
+  position: absolute;
+  top: 18px; }
+.title-bar .title-bar-left {
+  left: 12px; }
+.title-bar .title-bar-right {
+  right: 12px; }
+.info .title-bar {
+  background-color: rgba(66, 80, 107, 0.96); }
+  .info .title-bar a.title:before {
+    margin-right: 7.5px;
+    display: inline-block;
+    content: url("../assets/icon-info.svg"); }
+.text .title-bar {
+  background-color: rgba(214, 124, 27, 0.96); }
+  .text .title-bar a.title:before {
+    margin-right: 7.5px;
+    display: inline-block;
+    content: url("../assets/icon-text.svg"); }
+.video .title-bar {
+  background-color: rgba(173, 44, 47, 0.96); }
+  .video .title-bar a.title:before {
+    margin-right: 7.5px;
+    display: inline-block;
+    content: url("../assets/icon-video.svg"); }
+.audio .title-bar {
+  background-color: rgba(63, 124, 181, 0.96); }
+  .audio .title-bar a.title:before {
+    margin-right: 7.5px;
+    display: inline-block;
+    content: url("../assets/icon-audio.svg"); }
+.picture .title-bar {
+  background-color: rgba(32, 129, 73, 0.96); }
+  .picture .title-bar a.title:before {
+    margin-right: 7.5px;
+    display: inline-block;
+    content: url("../assets/icon-picture.svg"); }
+
+/*
+ ** Header item (can be image, audio, etc)
+ */
+.header-item {
+  width: 100%; }
+
+/*
+ ** Elements with equal margins from both edges of screen
+ */
+.spaced, .cell {
+  padding-left: 18px;
+  padding-right: 18px; }
+  .article .spaced, .article .cell {
+    margin-bottom: 60px; }
+
+.spaced2x {
+  padding-left: 36px;
+  padding-right: 36px; }
+
+/*
+** Content Cell (for sources, etc)
+*/
+.cell {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-bottom: 15px;
+  padding-right: 27px; }
+  .cell a {
+    color: #333; }
+  .cell.intro {
+    background: url("../assets/caret-forward@2x.png") no-repeat 98% 50%;
+    background-size: 12px;
+    border-bottom: 1px solid #cecece;
+    /* This puts the underline between items, except for the last one */
+    		/*&:not(:last-child) {
+    			border-bottom: 1px solid $grey-color-light;
+    		}
+    
+    		&:last-child {
+    			margin-bottom: 0;
+    		}*/ }
+  .cell.media {
+    border-left: 9px solid #333;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    padding-left: 9px;
+    padding-bottom: 6px;
+    padding-top: 6px; }
+  .cell.text {
+    border-left-color: rgba(214, 124, 27, 0.96); }
+  .cell.video {
+    border-left-color: rgba(173, 44, 47, 0.96); }
+  .cell.audio {
+    border-left-color: rgba(63, 124, 181, 0.96); }
+  .cell.picture {
+    border-left-color: rgba(32, 129, 73, 0.96); }
+
+.frage {
+  background-color: #ffffec;
+  padding: 15px;
+  margin-bottom: 30px; }
+  .frage p {
+    color: #2e3e5c;
+    font-style: italic; }
+
+.source {
+  margin-top: 30px; }
+  .source p {
+    color: #777;
+    font-style: italic; }
+
+/*
+** Picture Gallery
+*/
+.carousel {
+  margin: 0; }
+  .carousel li {
+    list-style-type: none;
+    margin-top: 30px;
+    margin-bottom: 30px; }
+    .carousel li:first-child {
+      margin-top: 60px; }
+    .carousel li:last-child {
+      margin-bottom: 60px; }
+
+/*
+** Footer: Media types key
+*/
+.media-keys {
+  width: 100%;
+  margin-left: 0;
+  margin-top: 60px; }
+  .media-keys .key {
+    width: 25%;
+    height: 48px;
+    float: left;
+    list-style-type: none;
+    margin-bottom: 120px; }
+  .media-keys .text {
+    background: url("../assets/icon-text.svg") rgba(214, 124, 27, 0.96) no-repeat 50% 50%;
+    background-size: 17.6px; }
+  .media-keys .video {
+    background: url("../assets/icon-video.svg") rgba(173, 44, 47, 0.96) no-repeat 50% 50%;
+    background-size: 17.6px; }
+  .media-keys .audio {
+    background: url("../assets/icon-audio.svg") rgba(63, 124, 181, 0.96) no-repeat 50% 50%;
+    background-size: 17.6px; }
+  .media-keys .picture {
+    background: url("../assets/icon-picture.svg") rgba(32, 129, 73, 0.96) no-repeat 50% 50%;
+    background-size: 17.6px; }
+
+/*
+ ** Hide Text
+ */
+.hide-text {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden; }
+
+.menu {
+  /*Strip the ul of padding and list styling*/
+  /*Create a horizontal list with spacing*/
+  /*Style 'show menu' label button and hide it by default*/
+  /*Hide checkbox*/ }
+  .menu ul {
+    position: absolute;
+    top: 51px;
+    margin: 0;
+    padding: 0;
+    visibility: hidden;
+    opacity: 0;
+    list-style-type: none;
+    transition: visibility 0s linear 0.2s,opacity 0.2s ease-out; }
+  .menu li {
+    display: inline-block;
+    width: 100%;
+    float: left;
+    margin-right: 1px;
+    /*Hide dropdown links until they are needed*/
+    /*Display the dropdown on hover*/ }
+    .menu li a {
+      display: block;
+      width: 100%;
+      height: 50px;
+      text-align: center;
+      line-height: 50px;
+      color: #fff;
+      background: rgba(50, 60, 85, 0.96);
+      text-decoration: none; }
+    @media screen and (min-width: 760px) {
+      .menu li {
+        /*Style for menu links*/
+        /*Hover state for top level links*/
+        /*Style for dropdown links*/
+        /*Hover state for dropdown links*/ }
+        .menu li:hover a {
+          background: #19c589; }
+        .menu li:hover ul a {
+          background: #f3f3f3;
+          color: #2f3036;
+          height: 40px;
+          line-height: 40px; }
+        .menu li:hover ul a {
+          background: #f3f3f3;
+          color: #2f3036;
+          height: 40px;
+          line-height: 40px; }
+        .menu li:hover ul a:hover {
+          background: #19c589;
+          color: #fff; } }
+    .menu li ul {
+      display: none;
+      /*Make dropdown links vertical*/ }
+      .menu li ul li {
+        display: block;
+        float: none;
+        /*Prevent text wrapping*/ }
+        .menu li ul li a {
+          width: auto;
+          min-width: 100px;
+          padding: 0 20px; }
+    ul .menu li a:hover + .hidden, .menu li .hidden:hover {
+      display: block; }
+  .menu .show-menu {
+    width: 8em;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    display: block; }
+    .menu .show-menu:after {
+      margin-left: 7.5px;
+      position: absolute;
+      top: 12px;
+      display: inline-block;
+      content: url("../assets/nav-arrow-down.png"); }
+  .menu input[type=checkbox] {
+    display: none;
+    /*Show menu when invisible checkbox is checked*/ }
+    .menu input[type=checkbox]:checked ~ #menu {
+      opacity: 1;
+      visibility: visible;
+      transition-delay: 0s; }

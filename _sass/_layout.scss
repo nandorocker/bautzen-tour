@@ -3,16 +3,23 @@
 }
 
 /*
- ** Top Navigation
+ ** Title bars for content pages
  */
-
-.nav {
+// Top bar - any header
+.top-bar {
+	position: fixed;
+	z-index: 9999;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: $spacing-unit*1.7;
 	background-color: $media-info;
 	text-align: center;
-	padding-top: $spacing-unit/2;
-	padding-bottom: $spacing-unit/6;
-	padding-left: $spacing-unit*0.4;
-	padding-right: $spacing-unit*0.4;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.title-bar {
 
 	ul {
 		margin-left: 0;
@@ -40,17 +47,17 @@
 
 	}
 
-	.nav-left, .nav-right {
-		width: 50%;
-		display: inline-block;
+	.title-bar-left, .title-bar-right {
+		position: absolute;
+		top: $spacing-unit*.6;
 	}
 
-	.nav-left {
-		text-align: left;
+	.title-bar-left {
+		left: $spacing-unit*.4;
 	}
 
-	.nav-right {
-		text-align: right;
+	.title-bar-right {
+		right: $spacing-unit*.4;
 	}
 
 

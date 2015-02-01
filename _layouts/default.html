@@ -17,7 +17,7 @@
 					<article class="cell intro">
 					    <a href="{{ post.url }}">
 					    {% if post_count >= 1 %}
-					    <h3>{{ post.subtitle }}</h3>
+					    <h3>{{ post.title }}</h3>
 					    {% endif %}
 					    <p>{{ post.content | strip_html | truncatewords:25}}</p></a>
 					</article>
@@ -32,7 +32,7 @@
 			    {% if post.station == page.station %}
 					<article class="cell media {{ post.layout }}">
 						<a href="{{ post.url }}">
-					    <h3>{{ post.subtitle }}</h3>
+					    <h3>{{ post.title }}</h3>
 					    <p>{{ post.content | strip_html | truncatewords:15}}</p></a>
 					</article>
 				{% endif %}

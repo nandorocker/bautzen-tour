@@ -10,9 +10,9 @@
         {% if page.image %}
         <img src="/assets/station-photos/{{ page.image }}.jpg" alt="{{ page.title }}" class="header-item">
         {% endif %}
-        {% include frage.html %}
-        <div class="spaced">
-            <h1>{{ page.title }}</h1>
+        
+        <div class="spaced item-wrapper">
+            {% include item-title-header.html %}
             {{ content }}
 
             {% include source.html %}

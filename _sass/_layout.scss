@@ -65,7 +65,7 @@
 		background-color: $media-info;
 
 		// insert icon next to title
-		a.title:before{
+		a.subtitle:before{
 			margin-right: $spacing-unit/4;
 			display: inline-block;
 			content: url("../assets/icon-info.svg");
@@ -75,7 +75,7 @@
 	.text & {
 		background-color: $media-text;
 
-		a.title:before{
+		a.subtitle:before{
 			margin-right: $spacing-unit/4;
 			display: inline-block;
 			content: url("../assets/icon-text.svg");
@@ -85,7 +85,7 @@
 	.video & {
 		background-color: $media-video;
 
-		a.title:before{
+		a.subtitle:before{
 			margin-right: $spacing-unit/4;
 			display: inline-block;
 			content: url("../assets/icon-video.svg");
@@ -95,7 +95,7 @@
 	.audio & {
 		background-color: $media-audio;
 
-		a.title:before{
+		a.subtitle:before{
 			margin-right: $spacing-unit/4;
 			display: inline-block;
 			content: url("../assets/icon-audio.svg");
@@ -105,7 +105,7 @@
 	.picture & {
 		background-color: $media-picture;
 
-		a.title:before{
+		a.subtitle:before{
 			margin-right: $spacing-unit/4;
 			display: inline-block;
 			content: url("../assets/icon-picture.svg");
@@ -130,6 +130,14 @@
 	.article & {
 		margin-bottom: $spacing-unit*2;
 	}
+}
+
+/*
+ ** Create a wrapper with spacing from top to item detail containers
+ ** to avoid assigning layout to other elements
+ */
+.item-wrapper {
+	padding-top: $spacing-unit;
 }
 
 .spaced2x {

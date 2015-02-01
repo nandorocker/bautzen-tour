@@ -132,6 +132,14 @@
 	}
 }
 
+/*
+ ** Create a wrapper with spacing from top to item detail containers
+ ** to avoid assigning layout to other elements
+ */
+.item-wrapper {
+	padding-top: $spacing-unit;
+}
+
 .spaced2x {
 	padding-left: $spacing-unit*1.2;
 	padding-right: $spacing-unit*1.2;

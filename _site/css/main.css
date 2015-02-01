@@ -91,13 +91,11 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 33.6px;
-  line-height: 0.98;
-  margin-top: 30px; }
+  line-height: 0.98; }
 
 h2 {
   font-style: italic;
-  font-weight: normal;
-  margin-bottom: 30px; }
+  font-weight: normal; }
 
 h3 {
   font-size: 22.4px; }
@@ -298,6 +296,13 @@ footer {
   padding-right: 18px; }
   .article .spaced, .article .cell {
     margin-bottom: 60px; }
+
+/*
+ ** Create a wrapper with spacing from top to item detail containers
+ ** to avoid assigning layout to other elements
+ */
+.item-wrapper {
+  padding-top: 30px; }
 
 .spaced2x {
   padding-left: 36px;

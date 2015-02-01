@@ -94,6 +94,11 @@ h1 {
   line-height: 0.98;
   margin-top: 30px; }
 
+h2 {
+  font-style: italic;
+  font-weight: normal;
+  margin-bottom: 30px; }
+
 h3 {
   font-size: 22.4px; }
 
@@ -250,31 +255,31 @@ footer {
   right: 12px; }
 .info .title-bar {
   background-color: rgba(66, 80, 107, 0.96); }
-  .info .title-bar a.title:before {
+  .info .title-bar a.subtitle:before {
     margin-right: 7.5px;
     display: inline-block;
     content: url("../assets/icon-info.svg"); }
 .text .title-bar {
   background-color: rgba(214, 124, 27, 0.96); }
-  .text .title-bar a.title:before {
+  .text .title-bar a.subtitle:before {
     margin-right: 7.5px;
     display: inline-block;
     content: url("../assets/icon-text.svg"); }
 .video .title-bar {
   background-color: rgba(173, 44, 47, 0.96); }
-  .video .title-bar a.title:before {
+  .video .title-bar a.subtitle:before {
     margin-right: 7.5px;
     display: inline-block;
     content: url("../assets/icon-video.svg"); }
 .audio .title-bar {
   background-color: rgba(63, 124, 181, 0.96); }
-  .audio .title-bar a.title:before {
+  .audio .title-bar a.subtitle:before {
     margin-right: 7.5px;
     display: inline-block;
     content: url("../assets/icon-audio.svg"); }
 .picture .title-bar {
   background-color: rgba(32, 129, 73, 0.96); }
-  .picture .title-bar a.title:before {
+  .picture .title-bar a.subtitle:before {
     margin-right: 7.5px;
     display: inline-block;
     content: url("../assets/icon-picture.svg"); }

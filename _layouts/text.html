@@ -10,8 +10,9 @@
         {% if page.image %}
         <img src="/assets/station-photos/{{ page.image }}.jpg" alt="{{ page.title }}" class="header-item">
         {% endif %}
-        {% include second-title.html %}
+        
         <div class="spaced">
+            <h2>{{ page.subtitle }}</h2>
             <h1>{{ page.title }}</h1>
             {{ content }}
 

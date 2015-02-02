@@ -235,9 +235,10 @@
 			margin-top: $spacing-unit*2;
 		}
 
-		&:last-child {
-			margin-bottom: $spacing-unit*2;
-		}
+		// Removing this for now
+		/*&:last-child {
+			margin-bottom: $spacing-unit;
+		}*/
 	}
 }
 

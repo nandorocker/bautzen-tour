@@ -1,0 +1,4 @@
+*.mp3 filter=hawser -crlf
+*.mp4 filter=hawser -crlf
+*.ogv filter=hawser -crlf
+*.webm filter=hawser -crlf

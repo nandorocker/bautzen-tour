@@ -1,10 +1,13 @@
-#Bautzen Tour
+Bautzen Tour
 ===
+
 ##Tech
+
 - Jekyll
 - HTML
 
 ##Posts Front Matter order
+
 - title
 - subtitle
 - layout
@@ -16,6 +19,7 @@
 - sources
 
 ##Posts all have the same date
+
 Jekyll conventions forces you to name posts with a date, so I chose a random one.
 
 ##Navigation

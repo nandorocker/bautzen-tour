@@ -13,6 +13,10 @@
         <div class="spaced item-wrapper">
             {% include item-title-header.html %}
             {{ content }}
+
+            {% if page.sources %}
+                {% include source.html %}
+            {% endif %}
         </div>
         
         {% include footer.html %}

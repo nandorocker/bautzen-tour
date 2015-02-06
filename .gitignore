@@ -1,2 +1,5 @@
 _site
+*.mp4
+*.ogv
+*.webm
 .sass-cache

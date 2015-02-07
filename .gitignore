@@ -2,4 +2,6 @@ _site
 *.mp4
 *.ogv
 *.webm
+*.m4v
+*.ogg
 .sass-cache

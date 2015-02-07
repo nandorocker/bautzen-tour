@@ -7,7 +7,13 @@
     {% include head.html %}
     <body class="article audio">
         {% include header-source.html %}
-        <a href="/assets/station-audio/{{ page.file }}"><img src="/assets/placeholder-audio@2x.png" alt="{{ page.title }}" class="header-item"></a>
+        <!--<a href="/assets/station-audio/{{ page.file }}"><img src="/assets/placeholder-audio@2x.png" alt="{{ page.title }}" class="header-item"></a>-->
+        <div class="audio-file">
+            <audio autoplay="autoplay" controls="controls">  
+               <source src="{{ site.url }}/assets/station-audio/{{ page.file }}.ogg" />  
+               <source src="{{ site.url }}/assets/station-audio/{{ page.file }}.m4a" />  
+            </audio> 
+        </div>
         
         <div class="spaced item-wrapper">
             {% include item-title-header.html %}

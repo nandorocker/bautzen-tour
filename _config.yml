@@ -2,5 +2,5 @@ title:	 	Die Friedliche Revolution im Stasi-Knast
 markdown: 	kramdown
 exclude: 	['README.md']
 gallerypath: /assets/station-photos
-#url:		http://bautzen.nan.do
+# url:		http://bautzen.nan.do
 url:		http://localhost:4000

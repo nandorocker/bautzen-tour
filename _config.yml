@@ -4,3 +4,4 @@ exclude: 	['README.md']
 gallerypath: /assets/station-photos
 # url:		http://bautzen.nan.do
 url:		http://localhost:4000
+permalink:	/:title/

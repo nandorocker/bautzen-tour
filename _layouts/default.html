@@ -9,18 +9,32 @@
         {% if page.image %}
         <img src="{{ site.url }}/assets/station-photos/{{ page.image }}.jpg" alt="{{ page.title }}" class="header-item">
         {% endif %}
+        
         <h1 class="spaced item-wrapper">{{ page.title }}</h1>
 		<div id="introduction">
 			{% assign sorted_info = (site.categories.info | sort: 'order') %}
 			{% for post in sorted_info %}
 				{% if post.station == page.station %}
 					<article class="cell intro">
-					    <a href="{{ site.url }}{{ post.url }}">
+					    <!-- <a href="{{ site.url }}{{ post.url }}"> -->
 					    {% if post_count >= 1 %}
 					    <h3>{{ post.title }}</h3>
 					    {% endif %}
 					    <p>{{ post.content | strip_html | truncatewords:25}}</p></a>
 					</article>
+
+			        <div id="info-overlay" class="overlay">
+
+			        	<div class="spaced item-wrapper">
+				        	{% include header-info.html %}
+				            {% include item-title-header.html %}
+				            {{ post.content }}
+
+				            {% if post.sources %}
+				                {% include source.html %}
+				            {% endif %}
+				        </div>
+			        </div>
 				{% endif %}
 			{% endfor %}
 		</div>

@@ -1,0 +1,18 @@
+/*
+ ** Info overlay
+ */
+#info-overlay {
+	// visibility: hidden;
+}
+
+.overlay {
+	z-index: 99999;
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding-top: $spacing-unit*1.7;
+	padding-bottom: 100%;
+	background-color: $background-color;
+	// visibility: hidden;
+}
+

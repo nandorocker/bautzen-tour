@@ -1,3 +1,7 @@
 <div class="source">
-    <p>Quelle: {{ page.sources }}</p>
+    <p>Quelle: {% if page.sources %}
+	{{ page.sources }}
+{% elsif post.sources %}
+	{{ post.sources }}
+{% endif %}</p>
 </div>

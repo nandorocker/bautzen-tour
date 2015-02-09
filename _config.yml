@@ -1,6 +1,5 @@
 title:	 	Die Friedliche Revolution im Stasi-Knast
 markdown: 	kramdown
 exclude: 	['README.md']
-# url:		http://foerderverein-gedenkstaette-bautzen.de/revolution89/
-url:		http://localhost:4000
+# url:		http://revolution89.foerderverein-gedenkstaette-bautzen.de
 permalink:	/:categories/:title/

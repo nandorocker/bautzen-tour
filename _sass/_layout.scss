@@ -17,6 +17,9 @@
 	text-align: center;
 	font-weight: bold;
 	text-transform: uppercase;
+
+	@include desktop {
+	}
 }
 
 .title-bar {
@@ -118,6 +121,10 @@
  */
 .header-item {
 	width: 100%;
+
+	@include desktop {
+		width: 50%;
+	}
 }
 
 /*

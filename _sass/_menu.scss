@@ -8,12 +8,20 @@
 		margin:0;
 		padding:0;
 		visibility: hidden;
-		//display: none;
 		opacity: 0;
 		list-style-type:none;
 
 		// animate menu
-        transition:visibility 0s linear 0.2s,opacity 0.2s ease-out;
+        transition:visibility 0s linear 0.2s,opacity 0.2s ease-out; 
+
+        /* Desktop size */
+        @include desktop {
+        	top: 0;
+        	position: relative;
+        	visibility: visible;
+        	display: block;
+        	opacity: 1;
+        }
 	}
 
 	/*Create a horizontal list with spacing*/
@@ -23,6 +31,7 @@
 		float: left;
 		margin-right: 1px;
 		margin-bottom: 0;
+		background: $menu;
 
 		a {
 			display:block;
@@ -31,37 +40,22 @@
 			text-align: center;
 			line-height: 50px;
 			color: #fff;
-			background: $menu;
+			// background: $menu;
 			text-decoration: none;
 		}
 
-		@media screen and (min-width : 760px) {
+		@include desktop {
+			width: auto;
+			margin: 0;
+			padding-left: 2em;
+			padding-right: 2em;
+			background: none;
+		
 			/*Style for menu links*/
 			&:hover a {
-				background: #19c589;
+				font-weight: normal;
 			}
-	
-			/*Hover state for top level links*/
-			&:hover ul a {
-				background: #f3f3f3;
-				color: #2f3036;
-				height: 40px;
-				line-height: 40px;
-			}
-	
-			/*Style for dropdown links*/
-			&:hover ul a {
-				background: #f3f3f3;
-				color: #2f3036;
-				height: 40px;
-				line-height: 40px;
-			}
-	
-			/*Hover state for dropdown links*/
-			&:hover ul a:hover {
-				background: #19c589;
-				color: #fff;
-			}
+
 		}
 
 		/*Hide dropdown links until they are needed*/
@@ -98,6 +92,11 @@
 		color: #fff;
 		text-align: center;
 		display: block;
+
+		@include desktop {
+			display: none;
+			visibility: hidden;
+		}
 
 		&:after {
 			margin-left: $spacing-unit/4;

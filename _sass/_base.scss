@@ -256,6 +256,9 @@ footer {
     padding-top: $spacing-unit*2;
     padding-bottom: $spacing-unit*4;
     text-align: center;
+    color: $grey-color-light;
+    font-size: $base-font-size * 0.75;
+
     .logo {
         width: 30%;
         max-width: 120px;

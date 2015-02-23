@@ -10,6 +10,7 @@
         <img src="{{ site.url }}/assets/station-photos/{{ page.image }}.jpg" alt="{{ page.title }}" class="header-item">
         {% endif %}
         <h1 class="spaced item-wrapper">{{ page.title }}</h1>
+
 		<div id="introduction">
 			{% assign sorted_info = (site.categories.info | sort: 'order') %}
 			{% for post in sorted_info %}
@@ -38,6 +39,14 @@
 				{% endif %}
 			{% endfor %}
 		</div>
+
+		{% if page.station == 0 %}
+		<div class="spaced item-wrapper">
+			<strong>Inhalt:</strong> Teresa Tammer
+			<strong>Gestaltung/Realisierung:</strong> Nando Rossi
+		</div>
+		{% endif %}
+
 		{% include mediakeys.html %}
         {% include footer.html %}
     </body>

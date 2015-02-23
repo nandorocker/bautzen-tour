@@ -12,3 +12,16 @@ $desktop-width: 1024px;
     @content;
   }
 }
+
+
+/*
+** Clearfix (to solve issue with height of parent of float-lefts)
+*/
+@mixin clearfix {
+	&:after { 
+	   content: " ";
+	   display: block; 
+	   height: 0; 
+	   clear: both;
+	}
+}

@@ -118,6 +118,13 @@
  */
 .header-item {
 	width: 100%;
+
+	@include media-query-min($on-palm) {
+			width: 50%;
+			height: 100%;
+			float: left;
+			margin-right: $spacing-unit*1.2;
+	}
 }
 
 /*
@@ -155,6 +162,11 @@
 	padding-bottom: $spacing-unit*0.5;
 	padding-right: $spacing-unit*0.9;
 
+	@include media-query-min($on-palm) {
+		width: 45%;
+		float: left;
+	}
+
 	a {
 		color: $text-color;
 	}
@@ -163,6 +175,11 @@
 		background: url("../assets/caret-forward@2x.png") no-repeat 98% 50%;
 		background-size: 12px;
 		border-bottom: 1px solid $grey-color-light;
+		width: auto;
+
+		@include media-query-min($on-palm) {
+			border-bottom: 0;
+		}
 
 		/* This puts the underline between items, except for the last one */
 		/*&:not(:last-child) {
@@ -218,9 +235,22 @@
     }
 }
 
+#quellen {
+	@include clearfix;
+
+	@include media-query-min($on-palm) {
+		margin-top: $spacing-unit;
+	}
+}
+
+#introduction {
+	@include clearfix;
+}
+
 // Source text
 .source {
 	margin-top: $spacing-unit;
+	text-align: center;
 
 	p {
 	    color: #777;
@@ -233,20 +263,44 @@
 */
 .carousel {
 	margin: 0;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	@include clearfix;
 
 	li {
 		list-style-type: none;
 		margin-top: $spacing-unit;
 		margin-bottom: $spacing-unit;
+		// text-align: center;
 
-		&:first-child {
-			margin-top: $spacing-unit*2;
+
+		@include media-query-min($on-laptop) {
+			display: block;
+			float: left;
+			margin-bottom: 0;
 		}
 
-		// Removing this for now
-		/*&:last-child {
-			margin-bottom: $spacing-unit;
-		}*/
+		@include media-query($on-laptop) {
+
+			&:first-child {
+				margin-top: $spacing-unit*2;
+			}
+
+		}
+
+		&:nth-child(3){
+			clear: left;
+		}
+
+		img {
+			width: 400px;
+
+			@include media-query-min($on-laptop) {
+				max-width: 90%;
+			}
+		}
 	}
 }
 

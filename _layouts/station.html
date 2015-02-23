@@ -7,11 +7,12 @@
     <body class="station">
         {% include menu.html %}
         {% if page.image %}
-        <img src="{{ site.url }}/assets/station-photos/{{ page.image }}.jpg" alt="{{ page.title }}" class="header-item">
-        {% endif %}
-        <h1 class="spaced item-wrapper">{{ page.title }}</h1>
+        <div id="introduction">
+        
+	        <img src="{{ site.url }}/assets/station-photos/{{ page.image }}.jpg" alt="{{ page.title }}" class="header-item">
+	        {% endif %}
+	        <h1 class="spaced item-wrapper">{{ page.title }}</h1>
 
-		<div id="introduction">
 			{% assign sorted_info = (site.categories.info | sort: 'order') %}
 			{% for post in sorted_info %}
 				{% if post.station == page.station %}

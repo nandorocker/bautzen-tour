@@ -323,14 +323,17 @@
 	width: 100%;
 	margin-left: 0;
 	margin-top: $spacing-unit*2;
+	margin-bottom: 0;
 
 	.key {
 		width: 25%;
 		height: $base-font-size*3;
+		margin-bottom: 0;
 		float: left;
 		list-style-type: none;
-		margin-bottom: $spacing-unit*4;
+		// margin-bottom: $spacing-unit*4;
 	}
+
 	.text {
 		background: url("../assets/icon-text.svg") $media-text no-repeat 50% 50%;
 		background-size: $base-font-size*1.1;
@@ -368,4 +371,32 @@ footer {
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
+}
+
+/* Clearfix */
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.clearfix {
+    *zoom: 1;
 }

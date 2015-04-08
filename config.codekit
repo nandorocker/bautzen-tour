@@ -1,0 +1,3824 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "18270",
+"files": {
+	"\/_includes\/footer.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/footer.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/head.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/head.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/header-info.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/header-info.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/header-source.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/header-source.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/item-title-header.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/item-title-header.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/mediakeys.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/mediakeys.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/menu.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/menu.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/source.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/source.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_layouts\/audio.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/audio.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_layouts\/default.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/default.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_layouts\/info.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/info.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_layouts\/picture.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/picture.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_layouts\/station.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/station.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_layouts\/text.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/text.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_layouts\/video.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/video.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_sass\/_base.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_sass\/_base.scss",
+		"outputAbbreviatedPath": "\/css\/_base.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_sass\/_layout.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_sass\/_layout.scss",
+		"outputAbbreviatedPath": "\/css\/_layout.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_sass\/_menu.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_sass\/_menu.scss",
+		"outputAbbreviatedPath": "\/css\/_menu.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_sass\/_mixins.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_sass\/_mixins.scss",
+		"outputAbbreviatedPath": "\/css\/_mixins.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_sass\/_type.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_sass\/_type.scss",
+		"outputAbbreviatedPath": "\/css\/_type.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_site\/assets\/button-play.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1006,
+		"inputAbbreviatedPath": "\/_site\/assets\/button-play.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/button-play.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/button-play@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2025,
+		"inputAbbreviatedPath": "\/_site\/assets\/button-play@2x.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/button-play@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/caret-forward.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 372,
+		"inputAbbreviatedPath": "\/_site\/assets\/caret-forward.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/caret-forward.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/caret-forward@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 847,
+		"inputAbbreviatedPath": "\/_site\/assets\/caret-forward@2x.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/caret-forward@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/fonts\/noticiatext\/noticiatext-bold-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/fonts\/noticiatext\/noticiatext-bold-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/assets\/fonts\/noticiatext\/noticiatext-bolditalic-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/fonts\/noticiatext\/noticiatext-bolditalic-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/assets\/fonts\/noticiatext\/noticiatext-italic-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/fonts\/noticiatext\/noticiatext-italic-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/assets\/fonts\/noticiatext\/noticiatext-regular-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/fonts\/noticiatext\/noticiatext-regular-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/assets\/fonts\/noticiatext\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/fonts\/noticiatext\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/_site\/assets\/fonts\/noticiatext\/specimen_files\/min\/easytabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/assets\/fonts\/noticiatext\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/fonts\/noticiatext\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/assets\/fonts\/noticiatext\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/fonts\/noticiatext\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/assets\/fonts\/noticiatext\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/fonts\/noticiatext\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/assets\/footer-logo-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 786,
+		"inputAbbreviatedPath": "\/_site\/assets\/footer-logo-icon.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/footer-logo-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/footer-logo-icon@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1620,
+		"inputAbbreviatedPath": "\/_site\/assets\/footer-logo-icon@2x.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/footer-logo-icon@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/icon-audio.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 366,
+		"inputAbbreviatedPath": "\/_site\/assets\/icon-audio.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/icon-audio.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/icon-audio@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 706,
+		"inputAbbreviatedPath": "\/_site\/assets\/icon-audio@2x.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/icon-audio@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/icon-back.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 209,
+		"inputAbbreviatedPath": "\/_site\/assets\/icon-back.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/icon-back.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/icon-back@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 294,
+		"inputAbbreviatedPath": "\/_site\/assets\/icon-back@2x.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/icon-back@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/icon-close.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 312,
+		"inputAbbreviatedPath": "\/_site\/assets\/icon-close.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/icon-close.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/icon-close@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 471,
+		"inputAbbreviatedPath": "\/_site\/assets\/icon-close@2x.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/icon-close@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/icon-info.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 487,
+		"inputAbbreviatedPath": "\/_site\/assets\/icon-info.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/icon-info.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/icon-picture.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 287,
+		"inputAbbreviatedPath": "\/_site\/assets\/icon-picture.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/icon-picture.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/icon-picture@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 512,
+		"inputAbbreviatedPath": "\/_site\/assets\/icon-picture@2x.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/icon-picture@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/icon-text.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 222,
+		"inputAbbreviatedPath": "\/_site\/assets\/icon-text.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/icon-text.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/icon-text@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 365,
+		"inputAbbreviatedPath": "\/_site\/assets\/icon-text@2x.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/icon-text@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/icon-video.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 252,
+		"inputAbbreviatedPath": "\/_site\/assets\/icon-video.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/icon-video.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/icon-video@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 475,
+		"inputAbbreviatedPath": "\/_site\/assets\/icon-video@2x.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/icon-video@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/close.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 280,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/close.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/close.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/demopage\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 986,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/favicon.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/demopage\/image-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 251137,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/image-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/image-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/demopage\/image-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169405,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/image-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/image-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/demopage\/image-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 282784,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/image-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/image-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/demopage\/image-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 248057,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/image-4.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/image-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/demopage\/image-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 222296,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/image-5.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/image-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/demopage\/image-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255978,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/image-6.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/image-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/demopage\/thumb-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13542,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/thumb-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/thumb-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/demopage\/thumb-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33168,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/thumb-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/thumb-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/demopage\/thumb-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15387,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/thumb-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/thumb-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/demopage\/thumb-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12719,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/thumb-4.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/thumb-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/demopage\/thumb-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10562,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/thumb-5.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/thumb-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/demopage\/thumb-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11575,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/thumb-6.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/demopage\/thumb-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/next.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1350,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/next.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/next.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/lightbox\/prev.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1360,
+		"inputAbbreviatedPath": "\/_site\/assets\/lightbox\/prev.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/lightbox\/prev.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/nav-arrow-down.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 187,
+		"inputAbbreviatedPath": "\/_site\/assets\/nav-arrow-down.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/nav-arrow-down.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/nav-arrow-down@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 331,
+		"inputAbbreviatedPath": "\/_site\/assets\/nav-arrow-down@2x.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/nav-arrow-down@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/placeholder-audio.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7205,
+		"inputAbbreviatedPath": "\/_site\/assets\/placeholder-audio.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/placeholder-audio.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/placeholder-audio@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17523,
+		"inputAbbreviatedPath": "\/_site\/assets\/placeholder-audio@2x.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/placeholder-audio@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/0_Archiv_Bundesstiftung_Aufarbeitung-_Fotobestand_Uwe_Gerig-_Bild_5093.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 539793,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/0_Archiv_Bundesstiftung_Aufarbeitung-_Fotobestand_Uwe_Gerig-_Bild_5093.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/0_Archiv_Bundesstiftung_Aufarbeitung-_Fotobestand_Uwe_Gerig-_Bild_5093.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/0_Archiv_Bundesstiftung_Aufarbeitung_Fotobestand_Klaus_Mehner_Bild_89_1104_POL-Demo_27.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.31545e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/0_Archiv_Bundesstiftung_Aufarbeitung_Fotobestand_Klaus_Mehner_Bild_89_1104_POL-Demo_27.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/0_Archiv_Bundesstiftung_Aufarbeitung_Fotobestand_Klaus_Mehner_Bild_89_1104_POL-Demo_27.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/0_Einfuehrung_FotoDemo_4-12-89.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 856865,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/0_Einfuehrung_FotoDemo_4-12-89.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/0_Einfuehrung_FotoDemo_4-12-89.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/1_A_BautzenerBuerger_Quelle_Montagsdemo13-11-1989_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 714198,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_A_BautzenerBuerger_Quelle_Montagsdemo13-11-1989_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_A_BautzenerBuerger_Quelle_Montagsdemo13-11-1989_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/1_A_BautzenerBuerger_Quelle_Montagsdemo2_13-11-1989_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.3194e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_A_BautzenerBuerger_Quelle_Montagsdemo2_13-11-1989_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_A_BautzenerBuerger_Quelle_Montagsdemo2_13-11-1989_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/1_B_BautzenerBuerger_Quelle_Menschenkette1_3-12-89_StadtarchivBautzen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.11369e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_B_BautzenerBuerger_Quelle_Menschenkette1_3-12-89_StadtarchivBautzen.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_B_BautzenerBuerger_Quelle_Menschenkette1_3-12-89_StadtarchivBautzen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/1_B_BautzenerBuerger_Quelle_Menschenkette2_3-12-89_StadtarchivBautzen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.11618e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_B_BautzenerBuerger_Quelle_Menschenkette2_3-12-89_StadtarchivBautzen.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_B_BautzenerBuerger_Quelle_Menschenkette2_3-12-89_StadtarchivBautzen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Montagsdemo4-12-89_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 825147,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Montagsdemo4-12-89_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Montagsdemo4-12-89_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemo2_4-12-89_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 933033,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemo2_4-12-89_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemo2_4-12-89_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemo3_4-12-89_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.04842e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemo3_4-12-89_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemo3_4-12-89_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemon5_4-12-1989_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.18253e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemon5_4-12-1989_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemon5_4-12-1989_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagssdemo4_4-12-89_JuergenMatschie_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 847704,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagssdemo4_4-12-89_JuergenMatschie_2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagssdemo4_4-12-89_JuergenMatschie_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/2_A_Stasi-Quelle_DemoKreisdienststelle_13-11-89_JürgenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 200907,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/2_A_Stasi-Quelle_DemoKreisdienststelle_13-11-89_JürgenMatschie.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/2_A_Stasi-Quelle_DemoKreisdienststelle_13-11-89_JürgenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/2_A_Stasi_Quelle_Demokreisdienststelle_13-11-1989_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 776865,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/2_A_Stasi_Quelle_Demokreisdienststelle_13-11-1989_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/2_A_Stasi_Quelle_Demokreisdienststelle_13-11-1989_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/2_A_Stasi_Quelle_DemoKreisdienststelle_13-11-89_StadtarchivBautzen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 910119,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/2_A_Stasi_Quelle_DemoKreisdienststelle_13-11-89_StadtarchivBautzen.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/2_A_Stasi_Quelle_DemoKreisdienststelle_13-11-89_StadtarchivBautzen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/2_Stasi_IntroPic_stasiweg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145923,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/2_Stasi_IntroPic_stasiweg.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/2_Stasi_IntroPic_stasiweg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_AnDenLeiter_4-12-1989.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.42765e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_AnDenLeiter_4-12-1989.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_AnDenLeiter_4-12-1989.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_Forderungen_4-12-1989.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.17058e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_Forderungen_4-12-1989.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_Forderungen_4-12-1989.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_Sofortmassnahmen_4-12-1989.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.79235e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_Sofortmassnahmen_4-12-1989.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_Sofortmassnahmen_4-12-1989.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_GerdBretagVorPlakaten_9-12-1989_Schwagrzinna.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 136905,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_GerdBretagVorPlakaten_9-12-1989_Schwagrzinna.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_GerdBretagVorPlakaten_9-12-1989_Schwagrzinna.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_HaeftlingeFernsehraum_9-12-1989_Schwagrzinna.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111350,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_HaeftlingeFernsehraum_9-12-1989_Schwagrzinna.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_HaeftlingeFernsehraum_9-12-1989_Schwagrzinna.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_HaeftlingeWinken_9-12-1989_Schwagrzinna.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129140,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_HaeftlingeWinken_9-12-1989_Schwagrzinna.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_HaeftlingeWinken_9-12-1989_Schwagrzinna.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_OffeneZelle_9-12-1989_Schwagrzinna.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112694,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_OffeneZelle_9-12-1989_Schwagrzinna.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_OffeneZelle_9-12-1989_Schwagrzinna.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_StreikendeHaeftlinge_9-12-1989_Schwagrzinna.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144427,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_StreikendeHaeftlinge_9-12-1989_Schwagrzinna.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_StreikendeHaeftlinge_9-12-1989_Schwagrzinna.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/3_E_Haeftlingsstreik_Quelle_AmnestieBeschluss_Zeitung.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.25714e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_E_Haeftlingsstreik_Quelle_AmnestieBeschluss_Zeitung.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_E_Haeftlingsstreik_Quelle_AmnestieBeschluss_Zeitung.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/3_Haeftlingsstreik_IntroPic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108700,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_Haeftlingsstreik_IntroPic.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/3_Haeftlingsstreik_IntroPic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/4_C_Oeffentlichkeit_QuelleInfo_Pressekonferenz7-12-89.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 697333,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/4_C_Oeffentlichkeit_QuelleInfo_Pressekonferenz7-12-89.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/4_C_Oeffentlichkeit_QuelleInfo_Pressekonferenz7-12-89.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/4_C_Oeffentlichkeit_QuelleInfo_Pressekonferenz_1_7-12-89.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 685030,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/4_C_Oeffentlichkeit_QuelleInfo_Pressekonferenz_1_7-12-89.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/4_C_Oeffentlichkeit_QuelleInfo_Pressekonferenz_1_7-12-89.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/4_E_Oeffentlichkeit_QuelleInfo_SZ_ueber_Pressekonferenz_8-12-1989.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.93546e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/4_E_Oeffentlichkeit_QuelleInfo_SZ_ueber_Pressekonferenz_8-12-1989.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/4_E_Oeffentlichkeit_QuelleInfo_SZ_ueber_Pressekonferenz_8-12-1989.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/4_G_Oeffentlichkeit_Quelle_DieUnion_Schweigelager2_19-12-1989.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.25514e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/4_G_Oeffentlichkeit_Quelle_DieUnion_Schweigelager2_19-12-1989.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/4_G_Oeffentlichkeit_Quelle_DieUnion_Schweigelager2_19-12-1989.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/4_G_Oeffentlichkeit_Quelle_DieUnion_Schweigelager_19-12-1989.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.35049e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/4_G_Oeffentlichkeit_Quelle_DieUnion_Schweigelager_19-12-1989.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/4_G_Oeffentlichkeit_Quelle_DieUnion_Schweigelager_19-12-1989.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/4_Info_pic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 235632,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/4_Info_pic.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/4_Info_pic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/5_Intro-Pic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82497,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/5_Intro-Pic.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/5_Intro-Pic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/6_C_Entlassung_Quelle_VermerkVogel_18-12-89.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 998015,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/6_C_Entlassung_Quelle_VermerkVogel_18-12-89.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/6_C_Entlassung_Quelle_VermerkVogel_18-12-89.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/6_E_Entlassung_Quelle_FotoStrehlow22-12-89.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.42635e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/6_E_Entlassung_Quelle_FotoStrehlow22-12-89.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/6_E_Entlassung_Quelle_FotoStrehlow22-12-89.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/station-photos\/6_IntroPic2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 276077,
+		"inputAbbreviatedPath": "\/_site\/assets\/station-photos\/6_IntroPic2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/station-photos\/6_IntroPic2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/css\/lightbox.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/css\/lightbox.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/js\/lightbox.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/lightbox.min.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/lightbox.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/typekit.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/typekit.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/typekit-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/station-0\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-0\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-0\/info\/0_info\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-0\/info\/0_info\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-0\/info\/0_info2\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-0\/info\/0_info2\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-0\/sources\/0_A\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-0\/sources\/0_A\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-1\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-1\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-1\/info\/1_info\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-1\/info\/1_info\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-1\/sources\/1_A\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-1\/sources\/1_A\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-1\/sources\/1_B\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-1\/sources\/1_B\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-1\/sources\/1_C\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-1\/sources\/1_C\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-1\/sources\/1_D\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-1\/sources\/1_D\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-1\/sources\/1_E\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-1\/sources\/1_E\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-2\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-2\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-2\/info\/2_info\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-2\/info\/2_info\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-2\/sources\/2_A\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-2\/sources\/2_A\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-2\/sources\/2_B\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-2\/sources\/2_B\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-2\/sources\/2_C\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-2\/sources\/2_C\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-3\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-3\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-3\/info\/3_info\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-3\/info\/3_info\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-3\/sources\/3_A\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-3\/sources\/3_A\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-3\/sources\/3_B\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-3\/sources\/3_B\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-3\/sources\/3_C\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-3\/sources\/3_C\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-3\/sources\/3_D\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-3\/sources\/3_D\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-3\/sources\/3_E\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-3\/sources\/3_E\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-3\/sources\/3_F\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-3\/sources\/3_F\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-4\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-4\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-4\/info\/4_info\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-4\/info\/4_info\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-4\/sources\/4_A\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-4\/sources\/4_A\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-4\/sources\/4_B\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-4\/sources\/4_B\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-4\/sources\/4_C\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-4\/sources\/4_C\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-4\/sources\/4_E\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-4\/sources\/4_E\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-4\/sources\/4_F\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-4\/sources\/4_F\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-4\/sources\/4_G\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-4\/sources\/4_G\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-5\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-5\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-5\/info\/5_info\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-5\/info\/5_info\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-5\/sources\/5_A\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-5\/sources\/5_A\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-5\/sources\/5_B\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-5\/sources\/5_B\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-5\/sources\/5_C\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-5\/sources\/5_C\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-6\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-6\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-6\/info\/6_info\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-6\/info\/6_info\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-6\/sources\/6_A\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-6\/sources\/6_A\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-6\/sources\/6_B\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-6\/sources\/6_B\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-6\/sources\/6_C\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-6\/sources\/6_C\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-6\/sources\/6_D\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-6\/sources\/6_D\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/station-6\/sources\/6_E\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/station-6\/sources\/6_E\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/button-play.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1006,
+		"inputAbbreviatedPath": "\/assets\/button-play.png",
+		"outputAbbreviatedPath": "\/assets\/button-play.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/button-play@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2025,
+		"inputAbbreviatedPath": "\/assets\/button-play@2x.png",
+		"outputAbbreviatedPath": "\/assets\/button-play@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/caret-forward.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 372,
+		"inputAbbreviatedPath": "\/assets\/caret-forward.png",
+		"outputAbbreviatedPath": "\/assets\/caret-forward.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/caret-forward@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 847,
+		"inputAbbreviatedPath": "\/assets\/caret-forward@2x.png",
+		"outputAbbreviatedPath": "\/assets\/caret-forward@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/fonts\/noticiatext\/noticiatext-bold-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/fonts\/noticiatext\/noticiatext-bold-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/fonts\/noticiatext\/noticiatext-bolditalic-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/fonts\/noticiatext\/noticiatext-bolditalic-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/fonts\/noticiatext\/noticiatext-italic-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/fonts\/noticiatext\/noticiatext-italic-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/fonts\/noticiatext\/noticiatext-regular-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/fonts\/noticiatext\/noticiatext-regular-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/fonts\/noticiatext\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/fonts\/noticiatext\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/assets\/fonts\/noticiatext\/specimen_files\/min\/easytabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/fonts\/noticiatext\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/fonts\/noticiatext\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/fonts\/noticiatext\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/fonts\/noticiatext\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/fonts\/noticiatext\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/fonts\/noticiatext\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/footer-logo-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 786,
+		"inputAbbreviatedPath": "\/assets\/footer-logo-icon.png",
+		"outputAbbreviatedPath": "\/assets\/footer-logo-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/footer-logo-icon@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1620,
+		"inputAbbreviatedPath": "\/assets\/footer-logo-icon@2x.png",
+		"outputAbbreviatedPath": "\/assets\/footer-logo-icon@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icon-audio.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 366,
+		"inputAbbreviatedPath": "\/assets\/icon-audio.png",
+		"outputAbbreviatedPath": "\/assets\/icon-audio.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icon-audio@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 706,
+		"inputAbbreviatedPath": "\/assets\/icon-audio@2x.png",
+		"outputAbbreviatedPath": "\/assets\/icon-audio@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icon-back.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 209,
+		"inputAbbreviatedPath": "\/assets\/icon-back.png",
+		"outputAbbreviatedPath": "\/assets\/icon-back.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icon-back@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 294,
+		"inputAbbreviatedPath": "\/assets\/icon-back@2x.png",
+		"outputAbbreviatedPath": "\/assets\/icon-back@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icon-close.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 312,
+		"inputAbbreviatedPath": "\/assets\/icon-close.png",
+		"outputAbbreviatedPath": "\/assets\/icon-close.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icon-close@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 471,
+		"inputAbbreviatedPath": "\/assets\/icon-close@2x.png",
+		"outputAbbreviatedPath": "\/assets\/icon-close@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icon-info.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 487,
+		"inputAbbreviatedPath": "\/assets\/icon-info.png",
+		"outputAbbreviatedPath": "\/assets\/icon-info.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icon-picture.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 287,
+		"inputAbbreviatedPath": "\/assets\/icon-picture.png",
+		"outputAbbreviatedPath": "\/assets\/icon-picture.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icon-picture@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 512,
+		"inputAbbreviatedPath": "\/assets\/icon-picture@2x.png",
+		"outputAbbreviatedPath": "\/assets\/icon-picture@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icon-text.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 222,
+		"inputAbbreviatedPath": "\/assets\/icon-text.png",
+		"outputAbbreviatedPath": "\/assets\/icon-text.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icon-text@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 365,
+		"inputAbbreviatedPath": "\/assets\/icon-text@2x.png",
+		"outputAbbreviatedPath": "\/assets\/icon-text@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icon-video.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 252,
+		"inputAbbreviatedPath": "\/assets\/icon-video.png",
+		"outputAbbreviatedPath": "\/assets\/icon-video.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icon-video@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 475,
+		"inputAbbreviatedPath": "\/assets\/icon-video@2x.png",
+		"outputAbbreviatedPath": "\/assets\/icon-video@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/close.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 280,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/close.png",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/close.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/demopage\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 986,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/demopage\/favicon.png",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/demopage\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/demopage\/image-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 251137,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/demopage\/image-1.jpg",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/demopage\/image-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/demopage\/image-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169405,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/demopage\/image-2.jpg",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/demopage\/image-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/demopage\/image-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 282784,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/demopage\/image-3.jpg",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/demopage\/image-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/demopage\/image-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 248057,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/demopage\/image-4.jpg",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/demopage\/image-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/demopage\/image-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 222296,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/demopage\/image-5.jpg",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/demopage\/image-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/demopage\/image-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255978,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/demopage\/image-6.jpg",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/demopage\/image-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/demopage\/thumb-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13542,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/demopage\/thumb-1.jpg",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/demopage\/thumb-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/demopage\/thumb-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33168,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/demopage\/thumb-2.jpg",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/demopage\/thumb-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/demopage\/thumb-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15387,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/demopage\/thumb-3.jpg",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/demopage\/thumb-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/demopage\/thumb-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12719,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/demopage\/thumb-4.jpg",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/demopage\/thumb-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/demopage\/thumb-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10562,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/demopage\/thumb-5.jpg",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/demopage\/thumb-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/demopage\/thumb-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11575,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/demopage\/thumb-6.jpg",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/demopage\/thumb-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/next.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1350,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/next.png",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/next.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/lightbox\/prev.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1360,
+		"inputAbbreviatedPath": "\/assets\/lightbox\/prev.png",
+		"outputAbbreviatedPath": "\/assets\/lightbox\/prev.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/nav-arrow-down.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 187,
+		"inputAbbreviatedPath": "\/assets\/nav-arrow-down.png",
+		"outputAbbreviatedPath": "\/assets\/nav-arrow-down.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/nav-arrow-down@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 331,
+		"inputAbbreviatedPath": "\/assets\/nav-arrow-down@2x.png",
+		"outputAbbreviatedPath": "\/assets\/nav-arrow-down@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/placeholder-audio.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7205,
+		"inputAbbreviatedPath": "\/assets\/placeholder-audio.png",
+		"outputAbbreviatedPath": "\/assets\/placeholder-audio.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/placeholder-audio@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17523,
+		"inputAbbreviatedPath": "\/assets\/placeholder-audio@2x.png",
+		"outputAbbreviatedPath": "\/assets\/placeholder-audio@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/0_Archiv_Bundesstiftung_Aufarbeitung-_Fotobestand_Uwe_Gerig-_Bild_5093.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 539793,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/0_Archiv_Bundesstiftung_Aufarbeitung-_Fotobestand_Uwe_Gerig-_Bild_5093.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/0_Archiv_Bundesstiftung_Aufarbeitung-_Fotobestand_Uwe_Gerig-_Bild_5093.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/0_Archiv_Bundesstiftung_Aufarbeitung_Fotobestand_Klaus_Mehner_Bild_89_1104_POL-Demo_27.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.31545e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/0_Archiv_Bundesstiftung_Aufarbeitung_Fotobestand_Klaus_Mehner_Bild_89_1104_POL-Demo_27.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/0_Archiv_Bundesstiftung_Aufarbeitung_Fotobestand_Klaus_Mehner_Bild_89_1104_POL-Demo_27.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/0_Einfuehrung_FotoDemo_4-12-89.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 856865,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/0_Einfuehrung_FotoDemo_4-12-89.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/0_Einfuehrung_FotoDemo_4-12-89.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/1_A_BautzenerBuerger_Quelle_Montagsdemo13-11-1989_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 714198,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/1_A_BautzenerBuerger_Quelle_Montagsdemo13-11-1989_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/1_A_BautzenerBuerger_Quelle_Montagsdemo13-11-1989_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/1_A_BautzenerBuerger_Quelle_Montagsdemo2_13-11-1989_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.3194e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/1_A_BautzenerBuerger_Quelle_Montagsdemo2_13-11-1989_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/1_A_BautzenerBuerger_Quelle_Montagsdemo2_13-11-1989_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/1_B_BautzenerBuerger_Quelle_Menschenkette1_3-12-89_StadtarchivBautzen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.11369e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/1_B_BautzenerBuerger_Quelle_Menschenkette1_3-12-89_StadtarchivBautzen.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/1_B_BautzenerBuerger_Quelle_Menschenkette1_3-12-89_StadtarchivBautzen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/1_B_BautzenerBuerger_Quelle_Menschenkette2_3-12-89_StadtarchivBautzen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.11618e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/1_B_BautzenerBuerger_Quelle_Menschenkette2_3-12-89_StadtarchivBautzen.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/1_B_BautzenerBuerger_Quelle_Menschenkette2_3-12-89_StadtarchivBautzen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/1_D_BautzenerBuerger_Montagsdemo4-12-89_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 825147,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/1_D_BautzenerBuerger_Montagsdemo4-12-89_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/1_D_BautzenerBuerger_Montagsdemo4-12-89_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemo2_4-12-89_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 933033,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemo2_4-12-89_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemo2_4-12-89_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemo3_4-12-89_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.04842e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemo3_4-12-89_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemo3_4-12-89_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemon5_4-12-1989_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.18253e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemon5_4-12-1989_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagsdemon5_4-12-1989_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagssdemo4_4-12-89_JuergenMatschie_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 847704,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagssdemo4_4-12-89_JuergenMatschie_2.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/1_D_BautzenerBuerger_Quelle_Montagssdemo4_4-12-89_JuergenMatschie_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/2_A_Stasi-Quelle_DemoKreisdienststelle_13-11-89_JürgenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 200907,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/2_A_Stasi-Quelle_DemoKreisdienststelle_13-11-89_JürgenMatschie.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/2_A_Stasi-Quelle_DemoKreisdienststelle_13-11-89_JürgenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/2_A_Stasi_Quelle_Demokreisdienststelle_13-11-1989_JuergenMatschie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 776865,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/2_A_Stasi_Quelle_Demokreisdienststelle_13-11-1989_JuergenMatschie.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/2_A_Stasi_Quelle_Demokreisdienststelle_13-11-1989_JuergenMatschie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/2_A_Stasi_Quelle_DemoKreisdienststelle_13-11-89_StadtarchivBautzen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 910119,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/2_A_Stasi_Quelle_DemoKreisdienststelle_13-11-89_StadtarchivBautzen.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/2_A_Stasi_Quelle_DemoKreisdienststelle_13-11-89_StadtarchivBautzen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/2_Stasi_IntroPic_stasiweg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145923,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/2_Stasi_IntroPic_stasiweg.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/2_Stasi_IntroPic_stasiweg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_AnDenLeiter_4-12-1989.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.42765e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_AnDenLeiter_4-12-1989.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_AnDenLeiter_4-12-1989.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_Forderungen_4-12-1989.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.17058e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_Forderungen_4-12-1989.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_Forderungen_4-12-1989.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_Sofortmassnahmen_4-12-1989.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.79235e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_Sofortmassnahmen_4-12-1989.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/3_B_Haeftlingstreik_Quelle_Sofortmassnahmen_4-12-1989.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_GerdBretagVorPlakaten_9-12-1989_Schwagrzinna.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 136905,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_GerdBretagVorPlakaten_9-12-1989_Schwagrzinna.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_GerdBretagVorPlakaten_9-12-1989_Schwagrzinna.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_HaeftlingeFernsehraum_9-12-1989_Schwagrzinna.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111350,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_HaeftlingeFernsehraum_9-12-1989_Schwagrzinna.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_HaeftlingeFernsehraum_9-12-1989_Schwagrzinna.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_HaeftlingeWinken_9-12-1989_Schwagrzinna.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129140,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_HaeftlingeWinken_9-12-1989_Schwagrzinna.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_HaeftlingeWinken_9-12-1989_Schwagrzinna.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_OffeneZelle_9-12-1989_Schwagrzinna.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112694,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_OffeneZelle_9-12-1989_Schwagrzinna.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_OffeneZelle_9-12-1989_Schwagrzinna.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_StreikendeHaeftlinge_9-12-1989_Schwagrzinna.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144427,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_StreikendeHaeftlinge_9-12-1989_Schwagrzinna.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/3_D_Haeftlingsstreik_Quelle_StreikendeHaeftlinge_9-12-1989_Schwagrzinna.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/3_E_Haeftlingsstreik_Quelle_AmnestieBeschluss_Zeitung.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.25714e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/3_E_Haeftlingsstreik_Quelle_AmnestieBeschluss_Zeitung.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/3_E_Haeftlingsstreik_Quelle_AmnestieBeschluss_Zeitung.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/3_Haeftlingsstreik_IntroPic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108700,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/3_Haeftlingsstreik_IntroPic.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/3_Haeftlingsstreik_IntroPic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/4_C_Oeffentlichkeit_QuelleInfo_Pressekonferenz7-12-89.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 697333,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/4_C_Oeffentlichkeit_QuelleInfo_Pressekonferenz7-12-89.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/4_C_Oeffentlichkeit_QuelleInfo_Pressekonferenz7-12-89.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/4_C_Oeffentlichkeit_QuelleInfo_Pressekonferenz_1_7-12-89.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 685030,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/4_C_Oeffentlichkeit_QuelleInfo_Pressekonferenz_1_7-12-89.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/4_C_Oeffentlichkeit_QuelleInfo_Pressekonferenz_1_7-12-89.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/4_E_Oeffentlichkeit_QuelleInfo_SZ_ueber_Pressekonferenz_8-12-1989.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.93546e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/4_E_Oeffentlichkeit_QuelleInfo_SZ_ueber_Pressekonferenz_8-12-1989.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/4_E_Oeffentlichkeit_QuelleInfo_SZ_ueber_Pressekonferenz_8-12-1989.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/4_G_Oeffentlichkeit_Quelle_DieUnion_Schweigelager2_19-12-1989.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.25514e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/4_G_Oeffentlichkeit_Quelle_DieUnion_Schweigelager2_19-12-1989.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/4_G_Oeffentlichkeit_Quelle_DieUnion_Schweigelager2_19-12-1989.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/4_G_Oeffentlichkeit_Quelle_DieUnion_Schweigelager_19-12-1989.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.35049e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/4_G_Oeffentlichkeit_Quelle_DieUnion_Schweigelager_19-12-1989.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/4_G_Oeffentlichkeit_Quelle_DieUnion_Schweigelager_19-12-1989.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/4_Info_pic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 235632,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/4_Info_pic.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/4_Info_pic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/5_Intro-Pic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82497,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/5_Intro-Pic.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/5_Intro-Pic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/6_C_Entlassung_Quelle_VermerkVogel_18-12-89.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 998015,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/6_C_Entlassung_Quelle_VermerkVogel_18-12-89.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/6_C_Entlassung_Quelle_VermerkVogel_18-12-89.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/6_E_Entlassung_Quelle_FotoStrehlow22-12-89.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.42635e+06,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/6_E_Entlassung_Quelle_FotoStrehlow22-12-89.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/6_E_Entlassung_Quelle_FotoStrehlow22-12-89.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/station-photos\/6_IntroPic2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 276077,
+		"inputAbbreviatedPath": "\/assets\/station-photos\/6_IntroPic2.jpg",
+		"outputAbbreviatedPath": "\/assets\/station-photos\/6_IntroPic2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/lightbox.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/lightbox.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main.scss",
+		"outputAbbreviatedPath": "\/css\/main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/index.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.md",
+		"outputAbbreviatedPath": "\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/lightbox.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lightbox.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/lightbox.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/typekit.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/typekit.js",
+		"outputAbbreviatedPath": "\/js\/min\/typekit-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"outputAbbreviatedPath": "\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-0\/_posts\/2015-01-17-0_A.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-0\/_posts\/2015-01-17-0_A.md",
+		"outputAbbreviatedPath": "\/station-0\/_posts\/2015-01-17-0_A.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-0\/_posts\/2015-01-17-0_info.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-0\/_posts\/2015-01-17-0_info.md",
+		"outputAbbreviatedPath": "\/station-0\/_posts\/2015-01-17-0_info.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-0\/_posts\/2015-01-17-0_info2.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-0\/_posts\/2015-01-17-0_info2.md",
+		"outputAbbreviatedPath": "\/station-0\/_posts\/2015-01-17-0_info2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-0\/index.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-0\/index.md",
+		"outputAbbreviatedPath": "\/station-0\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-1\/_posts\/2015-01-07-1_A.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-1\/_posts\/2015-01-07-1_A.md",
+		"outputAbbreviatedPath": "\/station-1\/_posts\/2015-01-07-1_A.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-1\/_posts\/2015-01-07-1_B.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-1\/_posts\/2015-01-07-1_B.md",
+		"outputAbbreviatedPath": "\/station-1\/_posts\/2015-01-07-1_B.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-1\/_posts\/2015-01-07-1_C.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-1\/_posts\/2015-01-07-1_C.md",
+		"outputAbbreviatedPath": "\/station-1\/_posts\/2015-01-07-1_C.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-1\/_posts\/2015-01-07-1_D.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-1\/_posts\/2015-01-07-1_D.md",
+		"outputAbbreviatedPath": "\/station-1\/_posts\/2015-01-07-1_D.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-1\/_posts\/2015-01-07-1_E.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-1\/_posts\/2015-01-07-1_E.md",
+		"outputAbbreviatedPath": "\/station-1\/_posts\/2015-01-07-1_E.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-1\/_posts\/2015-01-07-1_info.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-1\/_posts\/2015-01-07-1_info.md",
+		"outputAbbreviatedPath": "\/station-1\/_posts\/2015-01-07-1_info.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-1\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-1\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-2\/_posts\/2015-01-07-2_A.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-2\/_posts\/2015-01-07-2_A.md",
+		"outputAbbreviatedPath": "\/station-2\/_posts\/2015-01-07-2_A.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-2\/_posts\/2015-01-07-2_B.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-2\/_posts\/2015-01-07-2_B.md",
+		"outputAbbreviatedPath": "\/station-2\/_posts\/2015-01-07-2_B.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-2\/_posts\/2015-01-07-2_C.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-2\/_posts\/2015-01-07-2_C.md",
+		"outputAbbreviatedPath": "\/station-2\/_posts\/2015-01-07-2_C.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-2\/_posts\/2015-01-07-2_info.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-2\/_posts\/2015-01-07-2_info.md",
+		"outputAbbreviatedPath": "\/station-2\/_posts\/2015-01-07-2_info.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-2\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-2\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-3\/_posts\/2015-01-07-3_A.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_A.md",
+		"outputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_A.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-3\/_posts\/2015-01-07-3_B.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_B.md",
+		"outputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_B.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-3\/_posts\/2015-01-07-3_C.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_C.md",
+		"outputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_C.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-3\/_posts\/2015-01-07-3_D.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_D.md",
+		"outputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_D.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-3\/_posts\/2015-01-07-3_E.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_E.md",
+		"outputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_E.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-3\/_posts\/2015-01-07-3_F.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_F.md",
+		"outputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_F.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-3\/_posts\/2015-01-07-3_info.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_info.md",
+		"outputAbbreviatedPath": "\/station-3\/_posts\/2015-01-07-3_info.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-3\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-3\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-4\/_posts\/2015-01-07-4_A.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_A.md",
+		"outputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_A.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-4\/_posts\/2015-01-07-4_B.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_B.md",
+		"outputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_B.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-4\/_posts\/2015-01-07-4_C.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_C.md",
+		"outputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_C.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-4\/_posts\/2015-01-07-4_E.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_E.md",
+		"outputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_E.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-4\/_posts\/2015-01-07-4_F.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_F.md",
+		"outputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_F.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-4\/_posts\/2015-01-07-4_G.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_G.md",
+		"outputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_G.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-4\/_posts\/2015-01-07-4_info.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_info.md",
+		"outputAbbreviatedPath": "\/station-4\/_posts\/2015-01-07-4_info.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-4\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-4\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-5\/_posts\/2015-01-07-5_A.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-5\/_posts\/2015-01-07-5_A.md",
+		"outputAbbreviatedPath": "\/station-5\/_posts\/2015-01-07-5_A.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-5\/_posts\/2015-01-07-5_B.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-5\/_posts\/2015-01-07-5_B.md",
+		"outputAbbreviatedPath": "\/station-5\/_posts\/2015-01-07-5_B.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-5\/_posts\/2015-01-07-5_C.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-5\/_posts\/2015-01-07-5_C.md",
+		"outputAbbreviatedPath": "\/station-5\/_posts\/2015-01-07-5_C.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-5\/_posts\/2015-01-07-5_info.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-5\/_posts\/2015-01-07-5_info.md",
+		"outputAbbreviatedPath": "\/station-5\/_posts\/2015-01-07-5_info.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-5\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-5\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-6\/_posts\/2015-01-07-6_A.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-6\/_posts\/2015-01-07-6_A.md",
+		"outputAbbreviatedPath": "\/station-6\/_posts\/2015-01-07-6_A.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-6\/_posts\/2015-01-07-6_B.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-6\/_posts\/2015-01-07-6_B.md",
+		"outputAbbreviatedPath": "\/station-6\/_posts\/2015-01-07-6_B.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-6\/_posts\/2015-01-07-6_C.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-6\/_posts\/2015-01-07-6_C.md",
+		"outputAbbreviatedPath": "\/station-6\/_posts\/2015-01-07-6_C.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-6\/_posts\/2015-01-07-6_D.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-6\/_posts\/2015-01-07-6_D.md",
+		"outputAbbreviatedPath": "\/station-6\/_posts\/2015-01-07-6_D.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-6\/_posts\/2015-01-07-6_E.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-6\/_posts\/2015-01-07-6_E.md",
+		"outputAbbreviatedPath": "\/station-6\/_posts\/2015-01-07-6_E.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-6\/_posts\/2015-01-07-6_info.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-6\/_posts\/2015-01-07-6_info.md",
+		"outputAbbreviatedPath": "\/station-6\/_posts\/2015-01-07-6_info.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/station-6\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/station-6\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Nando Rossi",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "bautzen-tour",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "compass_yellow"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptNoResolve": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}

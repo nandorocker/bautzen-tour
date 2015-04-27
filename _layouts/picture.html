@@ -6,7 +6,11 @@
     {% include head.html %}
     <body class="article picture">
         {% include header-source.html %}
-        
+
+        {% if page.image %}
+        <img src="{{ site.url }}/assets/station-photos/{{ page.image }}.jpg" alt="{{ page.title }}" class="header-item">
+        {% endif %}
+
         <div class="spaced item-wrapper">
             {% include item-title-header.html %}
             {{ content }}
